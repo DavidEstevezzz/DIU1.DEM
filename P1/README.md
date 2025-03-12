@@ -13,7 +13,7 @@
 
 Competidores
 
-https://valleyvega.org/
+https://mercatdelaterra.barcelona
 https://ecomercadogranada.org/
 https://agriculturavedicamaharishi.es/
 https://adelaidecentralmarket.com.au/
