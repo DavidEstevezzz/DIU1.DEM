@@ -1,8 +1,10 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
-* Malla receptora de información 
+* Malla receptora de información
+![image](https://github.com/user-attachments/assets/c701f260-c2c2-4be8-9037-be077984a5a6)
 * Mapa de empatía
+![image](https://github.com/user-attachments/assets/043a7432-6974-41ad-929a-3647a77a36f1)
 * Point of View 
 
 
@@ -20,9 +22,13 @@ forma intentar llegar a la mayor cantidad de gente posible.
 
 ### TASK ANALYSIS
 
-* User Task Matrix 
-* User/Task flow
+* User Task Matrix
+  
+![image](https://github.com/user-attachments/assets/a9a15861-33f4-4ed8-871c-fa0abc91322b)
 
+* User/Task flow
+  
+![image](https://github.com/user-attachments/assets/cf61573a-93d4-4c03-83cd-3dd28e42b314)
 
 ### ARQUITECTURA DE INFORMACIÓN
 
@@ -30,33 +36,20 @@ forma intentar llegar a la mayor cantidad de gente posible.
 
 * Labelling 
 
-
 ### Prototipo Lo-FI Wireframe 
-![image](https://github.com/user-attachments/assets/c701f260-c2c2-4be8-9037-be077984a5a6)
-![image](https://github.com/user-attachments/assets/043a7432-6974-41ad-929a-3647a77a36f1)
+
 ![image](https://github.com/user-attachments/assets/035c38ed-22d8-4489-ba0e-00d214ce7c9a)
-![image](https://github.com/user-attachments/assets/cf61573a-93d4-4c03-83cd-3dd28e42b314)
+
 ![image](https://github.com/user-attachments/assets/f498445e-a778-4307-8b3f-d1b19c3e0066)
 ![image](https://github.com/user-attachments/assets/387325c8-2f54-41dc-9946-bd3c5eb66c2f)
 ![image](https://github.com/user-attachments/assets/297135e1-96ff-47d6-a331-07c76d55d304)
 ![image](https://github.com/user-attachments/assets/7aa89f19-3928-4051-94c2-da165d5f0b5d)
 
-
-
-
-
-
-
-
 ![image](https://github.com/user-attachments/assets/b0f11702-bbf0-4ffe-b4d8-caffe80d629b)
 
 ![image](https://github.com/user-attachments/assets/b2dc7ecd-092e-43af-aa4a-4ba98f84e8d5)
 ![image](https://github.com/user-attachments/assets/0c9d46b5-c1e0-4de1-a5d6-a574b4b63c26)
-![image](https://github.com/user-attachments/assets/a474f239-776b-4802-8485-f5e1f5ed61b8)
-
-
-
-
+![image](https://github.com/user-attachments/assets/20dc16a5-2eda-42fd-b87e-8ffc6065a75a)
 
 ### Conclusiones  
 (incluye valoración de esta etapa)
