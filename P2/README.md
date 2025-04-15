@@ -36,6 +36,15 @@ forma intentar llegar a la mayor cantidad de gente posible.
 ![image](https://github.com/user-attachments/assets/043a7432-6974-41ad-929a-3647a77a36f1)
 ![image](https://github.com/user-attachments/assets/035c38ed-22d8-4489-ba0e-00d214ce7c9a)
 ![image](https://github.com/user-attachments/assets/cf61573a-93d4-4c03-83cd-3dd28e42b314)
+![image](https://github.com/user-attachments/assets/f498445e-a778-4307-8b3f-d1b19c3e0066)
+![image](https://github.com/user-attachments/assets/387325c8-2f54-41dc-9946-bd3c5eb66c2f)
+![image](https://github.com/user-attachments/assets/297135e1-96ff-47d6-a331-07c76d55d304)
+![image](https://github.com/user-attachments/assets/7aa89f19-3928-4051-94c2-da165d5f0b5d)
+
+
+
+
+
 
 
 
