@@ -2,8 +2,12 @@
 
 ### Ideación 
 * Malla receptora de información
+La malla receptora de información o feedback capture grid nos ha servido como herramienta para concretar el conocimiento de nuestra investigación y la experiencia de nuestros personajes. Tiene 4 apartados, y en el de preguntas hemos utilizado colores para indicar el origen de las preguntas. 
+
+
 * Mapa de empatía
-* Point of View 
+El mapa de empatía es otra herramienta con un propósito similar. En este caso también hemos hecho un solo documento para ambos personajes y hemos utilizado colores para indicar cuales son los pensamientos de cada personaje.
+
 
 
 ### PROPUESTA DE VALOR
@@ -16,6 +20,9 @@ un público más general. La última más importante sería el marketing, ya que
 del ciudadano promedio es bajo en comparación a los costes, por lo que es normal que quieran evitar gastarse más en productos ecológicos si de primeras no les llega para fin de mes. Nuestro
 objetivo es concienciar y promocionar especialmente los productos que no sean muy caros dentro de los productos ecológicos, no buscamos la calidad perfecta sino la sostenibilidad, y de esta
 forma intentar llegar a la mayor cantidad de gente posible.
+
+
+Luego esta propuesta de valor la hemos resumido y concretado en el documento del Scope Canvas donde ya se va solidificando el proyecto, indicamos el nombre de nuestr proyecto (BioesAhorro), además de darle niveles de prioridad a los problemas y las motivaciones de los usuarios. También establecemos los objetivos a largo y corto plazo a cordes a nuestra propuesta de valor y concretamos que acciones queremos que puedan hacer los usuarios y las métricas con las que medirémos el exito de nuestro proyecto.
 
 
 ### TASK ANALYSIS
