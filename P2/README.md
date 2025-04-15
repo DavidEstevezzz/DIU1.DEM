@@ -28,10 +28,12 @@ Luego esta propuesta de valor la hemos resumido y concretado en el documento del
 ### TASK ANALYSIS
 
 * User Task Matrix
+Para el análisis de tareas utilizamos una tabla de excel donde indicamos las tareas relevantes y la frecuencia de uso de los distintos usuarios que navegarán. Con esta información utilizamos códigos de colores y valores para mostrar que son las tareas de más frecuencia y en las que más esfuerzo tendríamos que poner.
   
 
 * User/Task flow
-  
+El task flow se muestran algunos flujos de operaciones para las tareas más importantes que podrían realizar los usuarios, estas tareas son las de mayor frecuencia determinadas en el apartado anterior.
+
 
 ### ARQUITECTURA DE INFORMACIÓN
 
