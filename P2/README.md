@@ -26,11 +26,27 @@ forma intentar llegar a la mayor cantidad de gente posible.
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
+* Sitemap
+
 * Labelling 
 
 
 ### Prototipo Lo-FI Wireframe 
+![image](https://github.com/user-attachments/assets/c701f260-c2c2-4be8-9037-be077984a5a6)
+![image](https://github.com/user-attachments/assets/043a7432-6974-41ad-929a-3647a77a36f1)
+![image](https://github.com/user-attachments/assets/035c38ed-22d8-4489-ba0e-00d214ce7c9a)
+![image](https://github.com/user-attachments/assets/cf61573a-93d4-4c03-83cd-3dd28e42b314)
+
+
+
+![image](https://github.com/user-attachments/assets/b0f11702-bbf0-4ffe-b4d8-caffe80d629b)
+
+![image](https://github.com/user-attachments/assets/b2dc7ecd-092e-43af-aa4a-4ba98f84e8d5)
+![image](https://github.com/user-attachments/assets/0c9d46b5-c1e0-4de1-a5d6-a574b4b63c26)
+![image](https://github.com/user-attachments/assets/a474f239-776b-4802-8485-f5e1f5ed61b8)
+
+
+
 
 
 ### Conclusiones  
