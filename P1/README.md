@@ -158,3 +158,15 @@ Estas dos personas representan perfiles complementarios de usuarios de Valle y V
    
 Ambos perfiles son fundamentales para entender cómo debe evolucionar la interfaz de usuario de Valle y Vega, ya que representan distintas necesidades, comportamientos y expectativas que la plataforma debe satisfacer para ser exitosa.
 
+
+
+# 1.d Análisis
+-------------------------------------------------------------------------
+
+[Usability-review-ValleyVega.xlsx](https://github.com/user-attachments/files/19814184/Usability-review-ValleyVega.xlsx)
+
+# 1.d Briefing
+-------------------------------------------------------------------------
+
+Como expertos en UX y usabilidad, hemos llevado a cabo una revisión exhaustiva de Valle y Vega, plataforma líder de comercio ecológico en Granada. Nuestro análisis incluyó la definición de personas representativas (Laura, consumidora local, y Miguel, chef profesional) y sus recorridos de uso, así como una evaluación heurística de 45 criterios. La interfaz destaca por un diseño limpio, navegación coherente y un proceso de compra alineado con objetivos sostenibles. Sin embargo, identificamos áreas de mejora en filtros avanzados, documentación de ayuda contextual y optimización de procesos complejos (como suscripciones y gestión de errores). Recomendamos implementar tutoriales visuales, enriquecer los filtros con etiquetas “eco” y mejorar la retroalimentación de errores para maximizar la eficiencia y satisfacción del usuario. Estas acciones elevarán la experiencia, fortalecerán la confianza del consumidor y consolidarán a Valle y Vega como referente de comercio sostenible.
+
