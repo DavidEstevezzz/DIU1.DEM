@@ -31,6 +31,9 @@ Esta estrategia nos permitirá identificar obstáculos en la interacción usuari
 **Laura Martínez, 34 años
 Residente del Albaicín, Granada**
 
+[Persona & User Journey Map Laura.pdf](https://github.com/user-attachments/files/19813127/Persona.User.Journey.Map.Laura.pdf)
+
+
 "Cada compra que hacemos es un voto por el tipo de mundo que queremos."
 
 **Información Básica**
