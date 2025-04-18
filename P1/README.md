@@ -15,7 +15,9 @@
 # 1.a User Reseach Plan
 -------------------------------------------------------------------------
 Granada, con su aspiración a ser capital cultural en 2031, presenta una oportunidad única para estudiar la usabilidad de plataformas digitales de mercados ecológicos como Valle y Vega. Nuestro enfoque de investigación se centrará en evaluar sistemáticamente la experiencia de usuario mediante una combinación de técnicas cualitativas y cuantitativas.
+
 Iniciaremos con un análisis competitivo de sitios similares para establecer benchmarks de usabilidad. Posteriormente, desarrollaremos personas ficticias representativas de los usuarios potenciales: consumidores locales comprometidos con la sostenibilidad y visitantes interesados en experiencias gastronómicas auténticas.
+
 Aplicaremos cognitive walkthroughs para evaluar las tareas críticas (búsqueda de productos, proceso de compra, obtención de información sobre productores) y realizaremos una revisión heurística exhaustiva basada en principios establecidos de usabilidad.
 Esta estrategia nos permitirá identificar obstáculos en la interacción usuario-sistema, evaluar la eficacia de la arquitectura de información y determinar cómo estas plataformas facilitan la conexión entre consumidores y productores locales. El objetivo final es proporcionar recomendaciones concretas para mejorar la usabilidad, aumentar la conversión y fortalecer el papel de estas plataformas como promotoras del comercio sostenible en Granada.
 
