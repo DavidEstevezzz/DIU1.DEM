@@ -92,7 +92,7 @@ Laura descubrió Valle y Vega a través de un compañero de trabajo hace ocho me
 **Miguel Soto, 42 años
 Reside en Madrid, visita Granada frecuentemente**
 
-[Persona & User Journey Map McDonald (Copy) (Copy).pdf](https://github.com/user-attachments/files/19813768/Persona.User.Journey.Map.McDonald.Copy.Copy.pdf)
+[Persona & User Journey Map Miguel.pdf](https://github.com/user-attachments/files/19813773/Persona.User.Journey.Map.Miguel.pdf)
 
 "La calidad y la sostenibilidad no son tendencias, son el único futuro posible para la gastronomía."
 
