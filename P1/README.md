@@ -25,3 +25,6 @@ Esta estrategia nos permitirá identificar obstáculos en la interacción usuari
 -------------------------------------------------------------------------
 
 [COMPETITOR ANALYSIS.pdf](https://github.com/user-attachments/files/19812524/COMPETITOR.ANALYSIS.pdf)
+
+# 1.c Personas
+-------------------------------------------------------------------------
