@@ -44,8 +44,8 @@ Residente del Albaicín, Granada**
 
 •	Personalidad: Organizada, consciente, activista comunitaria
 
-**Experiencia Tecnológica
-**
+**Experiencia Tecnológica**
+
 •	Nivel: Medio - Utiliza tecnología cotidianamente para trabajo y vida personal
 
 •	Dispositivos: Smartphone, laptop, tablet familiar
@@ -62,8 +62,8 @@ Residente del Albaicín, Granada**
 
 •	Conocer el origen de los alimentos que consume
 
-**Frustraciones
-**
+**Frustraciones**
+
 •	Falta de tiempo para hacer compras presenciales en mercados
 
 •	Dificultad para encontrar productos ecológicos a precios accesibles
@@ -72,8 +72,8 @@ Residente del Albaicín, Granada**
 
 •	Limitada variedad de productos en tiendas convencionales
 
-**Objetivos
-**
+**Objetivos**
+
 Mantener una dieta basada en productos de temporada y locales, enseñar hábitos sostenibles a su hijo.
 
 **Comportamiento de Compra
@@ -92,8 +92,8 @@ Reside en Madrid, visita Granada frecuentemente**
 
 "La calidad y la sostenibilidad no son tendencias, son el único futuro posible para la gastronomía."
 
-**Información Básica
-**
+**Información Básica**
+
 •	Ocupación: Chef y consultor gastronómico
 
 •	Educación: Escuela de Hostelería y múltiples cursos de especialización
@@ -102,16 +102,16 @@ Reside en Madrid, visita Granada frecuentemente**
 
 •	Personalidad: Curioso, perfeccionista, innovador
 
-**Experiencia Tecnológica
-**
+**Experiencia Tecnológica**
+
 •	Nivel: Alto - Early adopter, utiliza tecnología para trabajo y ocio constantemente
 
 •	Dispositivos: iPhone último modelo, iPad Pro, MacBook Pro
 
 •	Aplicaciones más usadas: Slack, Instagram, LinkedIn, TikTok, apps de crítica gastronómica
 
-**Motivaciones
-**
+**Motivaciones**
+
 •	Descubrir productores artesanales e ingredientes únicos
 
 •	Experimentar con productos de temporada
@@ -120,8 +120,8 @@ Reside en Madrid, visita Granada frecuentemente**
 
 •	Expandir su red de contactos profesionales en el sector ecológico
 
-**Frustraciones
-**
+**Frustraciones**
+
 •	Dificultad para encontrar información detallada sobre métodos de producción
 
 •	Plataformas con poca información sobre variedades específicas y características organolépticas
@@ -130,22 +130,27 @@ Reside en Madrid, visita Granada frecuentemente**
 
 •	Falta de opciones para cantidades mayoristas
 
-**Objetivos
-**
+**Objetivos**
+
 Establecer relaciones directas con productores para su próximo proyecto de restaurante sostenible basado en ingredientes de proximidad.
 
-**Comportamiento de Compra
-**
+**Comportamiento de Compra**
+
 Realiza pedidos grandes pero específicos, busca variedades particulares, visita personalmente a productores cuando es posible para entender mejor sus métodos de cultivo.
 
-**Relación con Valle y Vega
-**
+**Relación con Valle y Vega**
+
 Miguel conoció Valle y Vega durante una visita profesional a Granada y quedó impresionado por la calidad de los productos. Ahora, cada vez que visita la ciudad (aproximadamente una vez al mes), realiza pedidos específicos a través de la plataforma. Valora la conexión directa con productores locales, pero encuentra limitaciones en la plataforma para sus necesidades profesionales, como la falta de opciones para pedidos mayoristas o información técnica detallada sobre variedades específicas.
 
-________________________________________
-Justificación
+-------------------------------------------------------------------
+
+**Justificación**
+
 Estas dos personas representan perfiles complementarios de usuarios de Valle y Vega:
+
 1.	Laura representa al consumidor local comprometido, que busca una alimentación saludable y sostenible para su familia. Su nivel tecnológico medio y sus limitaciones de tiempo la hacen valorar especialmente la facilidad de uso y la eficiencia de la plataforma.
+
 2.	Miguel representa al profesional visitante, con necesidades más específicas y técnicas. Su alto nivel tecnológico y sus exigencias profesionales lo hacen más crítico con las limitaciones de la plataforma, pero también más interesado en establecer relaciones más profundas con los productores.
+   
 Ambos perfiles son fundamentales para entender cómo debe evolucionar la interfaz de usuario de Valle y Vega, ya que representan distintas necesidades, comportamientos y expectativas que la plataforma debe satisfacer para ser exitosa.
 
