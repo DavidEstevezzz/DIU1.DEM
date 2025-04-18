@@ -28,14 +28,13 @@ Esta estrategia nos permitirá identificar obstáculos en la interacción usuari
 
 # 1.c Personas
 -------------------------------------------------------------------------
-** 
-Laura Martínez, 34 años
+**Laura Martínez, 34 años
 Residente del Albaicín, Granada**
 
 "Cada compra que hacemos es un voto por el tipo de mundo que queremos."
 
-**Información Básica
-**
+**Información Básica**
+
 •	Ocupación: Profesora de secundaria (Biología)
 
 •	Educación: Licenciada en Ciencias Ambientales
@@ -76,8 +75,8 @@ Residente del Albaicín, Granada**
 
 Mantener una dieta basada en productos de temporada y locales, enseñar hábitos sostenibles a su hijo.
 
-**Comportamiento de Compra
-**
+**Comportamiento de Compra**
+
 Planifica compras semanales, busca información detallada sobre los productores antes de realizar un pedido, y prefiere sistemas que le permitan organizar su tiempo eficientemente.
 
 **Relación con Valle y Vega**
