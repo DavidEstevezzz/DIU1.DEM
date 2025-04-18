@@ -37,9 +37,13 @@ Residente del Albaicín, Granada
 "Cada compra que hacemos es un voto por el tipo de mundo que queremos."
 
 Información Básica
+
 •	Ocupación: Profesora de secundaria (Biología)
+
 •	Educación: Licenciada en Ciencias Ambientales
+
 •	Estado familiar: Casada, con un hijo de 6 años
+
 •	Personalidad: Organizada, consciente, activista comunitaria
 
 Experiencia Tecnológica
