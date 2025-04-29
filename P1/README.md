@@ -206,3 +206,13 @@ Como expertos en UX y usabilidad, hemos llevado a cabo una revisión exhaustiva 
 | Contactar soporte vía chat, email o formulario | 1 | 4 | 4 | 3.00 |
 | Monitorizar stock y recibir notificaciones de disponibilidad | 5 | 2 | 4 | 3.67 |
 
+La matriz refleja con claridad cómo cada perfil de usuario prioriza sus acciones clave:
+
+Productores obtienen puntuaciones altas (4–5) en tareas de gestión de catálogo y logística (registrar productos, actualizar stock, ver pedidos, comunicar plazos), ya que esas son sus responsabilidades diarias. En cambio marcan cero en acciones de compra o comunidad que no les conciernen.
+
+Compradores puntúan al máximo (5) las acciones de exploración y compra (filtrar productos, personalizar cestas, suscripción, añadir al carrito, checkout rápido, reseñas, favoritos), y altas (4) en engagement comunitario (talleres, retos, referidos). Son irrelevantes para ellos las tareas de back-office de productores y empleados.
+
+Empleados obtienen 5 en tareas de soporte y operación interna (atender consultas, procesar pedidos, gestionar suscripciones, moderar comunidad, organizar talleres, generar informes) y valoraciones medias (2–4) en funcionalidades mixtas de tienda y comunidad.
+
+La media de cada fila muestra la relevancia general: acciones como “ver y gestionar pedidos” o “monitorizar stock” (media 3,67) son críticas porque cruzan las necesidades de todos los perfiles. Por el contrario, acciones puramente de un solo perfil tienen medias bajas. Así, la puntuación 0–5 refleja la importancia de cada tarea según el rol: más alta si es esencial para ese usuario, más baja si le es ajena.
+
