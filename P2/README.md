@@ -18,7 +18,10 @@
 
 ### ARQUITECTURA DE INFORMACIÓN
 
-* Sitemap 
+* Sitemap
+  
+![sitemap](https://github.com/user-attachments/assets/722a766b-e7b2-4fa9-9b37-4ef1fb07363b)
+
 * Labelling 
 
 
