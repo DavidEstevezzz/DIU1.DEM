@@ -4,11 +4,15 @@
 * Malla receptora de información
 
   [Feedback Grid Template (Copy).pdf](https://github.com/user-attachments/files/19999651/Feedback.Grid.Template.Copy.pdf)
+  ![image](https://github.com/user-attachments/assets/19934bed-a90d-4673-b79a-0d5efc80cbef)
+
 
 * Mapa de empatía
 
   
 [Empathy Map (Copy).pdf](https://github.com/user-attachments/files/19999653/Empathy.Map.Copy.pdf)
+![image](https://github.com/user-attachments/assets/45ebd964-5fab-4126-ad7f-4d94f3f3f1ee)
+
 
   
 * Point of View 
