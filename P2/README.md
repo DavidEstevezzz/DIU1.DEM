@@ -10,6 +10,8 @@
 * ScopeCanvas
 
   [Scope Canvas (Community) (Copy).pdf](https://github.com/user-attachments/files/19999640/Scope.Canvas.Community.Copy.pdf)
+  ![image](https://github.com/user-attachments/assets/b4f9612e-d355-49bf-864f-4a32ca2c73ab)
+
 
 
 ### TASK ANALYSIS
