@@ -1,4 +1,4 @@
-## DIU - Practica2, entregables
+[markdown-table.md](https://github.com/user-attachments/files/19999696/markdown-table.md)## DIU - Practica2, entregables
 
 ### Ideación 
 * Malla receptora de información
@@ -29,8 +29,7 @@
 ### TASK ANALYSIS
 
 * User Task Matrix
-
-  | Acción | Productores | Compradores | Empleados | Media |
+[Uploadin| Acción | Productores | Compradores | Empleados | Media |
 |:------------------------------------------------------------------------------------------------|:-----------:|:-----------:|:---------:|:-----:|
 | Filtrar productos por temporada y origen según disponibilidad local | 1 | 5 | 3 | 3.00 |
 | Personalizar cestas con tus preferencias dietéticas y de sabor | 1 | 5 | 2 | 2.67 |
@@ -61,7 +60,9 @@
 | Iniciar sesión para acceder a funcionalidades avanzadas | 0 | 4 | 3 | 2.33 |
 | Consultar la sección de Preguntas Frecuentes (FAQs) | 1 | 4 | 3 | 2.67 |
 | Contactar soporte vía chat, email o formulario | 1 | 4 | 4 | 3.00 |
-| Monitorizar stock y recibir notificaciones de disponibilidad | 5 | 2 | 4 | 3.67 |
+| Monitorizar stock y recibir notificaciones de disponibilidad | 5 | 2 | 4 | 3.67 |g markdown-table.md…]()
+
+ 
 * User/Task flow
 
 
