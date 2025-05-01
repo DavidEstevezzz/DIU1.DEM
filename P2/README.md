@@ -1,4 +1,4 @@
-[markdown-table.md](https://github.com/user-attachments/files/19999696/markdown-table.md)## DIU - Practica2, entregables
+## DIU - Practica2, entregables
 
 ### Ideación 
 * Malla receptora de información
