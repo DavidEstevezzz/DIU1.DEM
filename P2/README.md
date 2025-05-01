@@ -1,8 +1,16 @@
 ## DIU - Practica2, entregables
 
 ### Ideación 
-* Malla receptora de información 
+* Malla receptora de información
+
+  [Feedback Grid Template (Copy).pdf](https://github.com/user-attachments/files/19999651/Feedback.Grid.Template.Copy.pdf)
+
 * Mapa de empatía
+
+  
+[Empathy Map (Copy).pdf](https://github.com/user-attachments/files/19999653/Empathy.Map.Copy.pdf)
+
+  
 * Point of View 
 
 
