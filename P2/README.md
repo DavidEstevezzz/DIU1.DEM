@@ -74,6 +74,52 @@
 
 * Labelling 
 
+| Ruta | Etiqueta | Definición |
+|----------------------------------------------- |----------------------------------|---------------------------------------------------------------------------|
+| `/carrito` | Carrito | Vista principal con todos los productos seleccionados. |
+| `/checkout` | Realizar pedido | Flujo de finalización de la compra. |
+| `/checkout/entrega` | Método de entrega | Selección de modalidad y horario de envío. |
+| `/checkout/pago` | Método de pago | Elección del sistema de pago y datos de facturación. |
+| `/checkout/cupon` | Introducir cupón | Aplicación de un código descuento al pedido. |
+| `/tienda/buscar` | Buscador | Búsqueda de productos por nombre o palabra clave. |
+| `/tienda/filtrar` | Filtrar productos | Filtros de categoría, precio y temporada para el catálogo. |
+| `/tienda/ordenar` | Ordenar productos | Opciones para reordenar la lista (precio, popularidad, novedades). |
+| `/admin/productos/{id}/editar` | Editar producto | Modificar datos e imágenes de un producto desde el panel interno. |
+| `/admin/productos/{id}/publicar` | Ocultar/mostrar | Activar o desactivar la visibilidad de un producto en la tienda. |
+| `/producto/{id}` | Ver ficha técnica | Detalle completo del producto: descripción, certificaciones e imágenes. |
+| `/producto/{id}/reseñar` | Reseñar producto | Formulario para valorar y comentar sobre un producto. |
+| `/register` | Registrar | Formulario de alta para nuevos usuarios. |
+| `/login` | Iniciar sesión | Área de acceso con email y contraseña. |
+| `/password-reset` | Olvidé contraseña | Proceso de recuperación de la contraseña vía email. |
+| `/login/remember` | Recordarme | Opción para mantener la sesión iniciada en el dispositivo. |
+| `/actividades` | Listar actividades | Catálogo de cursos y talleres disponibles (presencial y online). |
+| `/actividades/favoritos` | Añadir a favoritos (actividad) | Guardar una actividad en la lista personal de favoritos. |
+| `/actividades/{id}` | Mostrar información (actividad) | Detalle completo de la actividad: temario, fechas y requisitos. |
+| `/actividades/{id}/share` | Compartir actividad | Compartir enlace de la actividad en redes sociales. |
+| `/actividades/{id}/inscribir` | Inscribirse a actividad | Registro en el curso o taller seleccionado. |
+| `/actividades/{id}/temario` | Mostrar temario | Consulta del programa y contenidos de la actividad. |
+| `/actividades/{id}/solicitudes` | Ver solicitudes | Gestión de matrículas pendientes de aprobación. |
+| `/admin/actividades/{id}` | Gestionar curso | Panel interno para confirmar plazas y coordinar la formación. |
+| `/promociones` | Promociones activas | Listado de ofertas y descuentos disponibles. |
+| `/admin/promociones/nueva` | Añadir promoción | Formulario para crear nuevas promociones y packs. |
+| `/sobre-nosotros` | Sobre nosotros | Sección corporativa con misión, visión, valores y RSC. |
+| `/sobre-nosotros/historia` | Historia | Línea de tiempo y principales hitos de la organización. |
+| `/sobre-nosotros/contacto` | Contacto | Formulario y datos de ubicación y atención al cliente. |
+| `/sobre-nosotros/faqs` | FAQs | Preguntas frecuentes institucionales. |
+| `/admin/ventas` | Listar ventas | Panel de visualización de todas las ventas registradas. |
+| `/admin/ventas/devoluciones` | Gestionar devoluciones | Área para tramitar devoluciones y coordinar recogidas. |
+| `/admin/ventas/stock` | Gestionar stock | Herramienta para ajustar y controlar el inventario de productos. |
+| `/terminos` | Términos y Condiciones | Enlace principal a todas las políticas y condiciones de uso. |
+| `/terminos/aviso-legal` | Aviso Legal | Información legal obligatoria de la empresa. |
+| `/terminos/politica-privacidad` | Política de Privacidad | Detalles de cómo se recogen, usan y protegen los datos personales. |
+| `/terminos/politica-cookies` | Política de Cookies | Descripción del uso de cookies y opciones para configurarlas. |
+| `/terminos/politica-envios` | Política de Envíos | Condiciones y costes asociados a la entrega de los pedidos. |
+| `/terminos/faqs-general` | FAQ General | Respuestas a las dudas más habituales sobre la plataforma. |
+| `/contacto` | Contacto y Redes Sociales | Página de contacto y enlaces a los perfiles oficiales en redes sociales. |
+| `/contacto/formulario` | Formulario de Contacto | Envío de consultas directas al equipo de atención al cliente. |
+| `mailto:soporte@valleyvega.org` | Correo electrónico | Dirección de email para soporte y atención de incidencias. |
+| `/contacto/chat` | Chat en línea | Acceso a soporte en tiempo real a través de chat. |
+| `/contacto/redes` | Redes sociales | Enlaces a perfiles en Instagram, Facebook, Twitter, etc. |
 
 ### Prototipo Lo-FI Wireframe 
 
