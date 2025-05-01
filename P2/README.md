@@ -9,6 +9,8 @@
 ### PROPUESTA DE VALOR
 * ScopeCanvas
 
+  [Scope Canvas (Community) (Copy).pdf](https://github.com/user-attachments/files/19999640/Scope.Canvas.Community.Copy.pdf)
+
 
 ### TASK ANALYSIS
 
