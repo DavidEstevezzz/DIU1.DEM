@@ -65,6 +65,9 @@
  
 * User/Task flow
 
+https://www.figma.com/design/JNgYRwJcvWQ7qbOPwDxHEx/GreenBasket---Userflow?m=auto&t=pKPH3UWCigMaxJjF-6
+![GreenBasket - Userflow-1](https://github.com/user-attachments/assets/1c38d16f-0335-452a-93f7-1e681fb70937)
+
 
 ### ARQUITECTURA DE INFORMACIÓN
 
