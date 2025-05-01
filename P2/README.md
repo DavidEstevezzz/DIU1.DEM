@@ -19,6 +19,10 @@
 
 
 ### PROPUESTA DE VALOR
+
+GreenBasket es una plataforma digital de suscripción de cestas de alimentos 100 % ecológicos y de proximidad que conecta directamente a pequeños productores locales con consumidores que buscan calidad, frescura y transparencia. Ofrecemos cestas personalizables de temporada, entregas programadas y un sistema de recompensas que promueve prácticas sostenibles (huella de CO₂ reducida, envases reutilizables) y fortalece la economía rural, todo en una experiencia de compra sencilla y plenamente transparente.
+
+
 * ScopeCanvas
 
   [Scope Canvas (Community) (Copy).pdf](https://github.com/user-attachments/files/19999640/Scope.Canvas.Community.Copy.pdf)
