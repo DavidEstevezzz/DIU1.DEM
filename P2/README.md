@@ -121,7 +121,10 @@
 | `/contacto/chat` | Chat en línea | Acceso a soporte en tiempo real a través de chat. |
 | `/contacto/redes` | Redes sociales | Enlaces a perfiles en Instagram, Facebook, Twitter, etc. |
 
-### Prototipo Lo-FI Wireframe 
+###  Wireframe 
+
+https://www.figma.com/design/4o4orsnCKKGm57zFW5iFfR/GreenBasket---Homepage?m=auto&t=pKPH3UWCigMaxJjF-6
+![GreenBasket - Homepage-1](https://github.com/user-attachments/assets/2db375d9-bbfc-42ed-8510-4e076eecf005)
 
 
 ### Conclusiones  
