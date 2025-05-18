@@ -46,6 +46,8 @@ LINK BOCETOS: https://www.figma.com/design/NsWmqf8UViA7fgWY71rynk/BOCETOS-HI-FI?
 
 -Para la página de información en el apartado de artículos hemos puesto un "ver más", que se podría aplicar para todas las partes en las que pone ver más y simplemente funciona para ver más artículos (lo hace pasando a una copia del boceto con más articulos).
 
+-Importante indicar que el logo pequeño que sale siempre hace volver al home, para que se pueda navegar bien.
+
 
 
 ## Conclusiones
