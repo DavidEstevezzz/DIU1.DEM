@@ -1,35 +1,31 @@
 # DIU25
-Prácticas Diseño Interfaces de Usuario (Tema: .... ) 
+Prácticas Diseño Interfaces de Usuario
 
 [Guiones de prácticas](GuionesPracticas/)
 
-Grupo: DIUx_AABB.  Curso: 2024/25 
+Grupo: DIU1_FernandoAdam.  Curso: 2024/25 
 
-Actualizado: xx/xx/2025
+Actualizado: 18/05/2025
 
 Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+>>> Bio Ahorro
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+>>> El objetivo de esta práctica es desarrollar BioAhorro, una plataforma que permita a más personas acceder a productos ecológicos de forma fácil y a buen precio. Queremos que lo ecológico deje de ser algo exclusivo y pase a ser parte del día a día de cualquier consumidor. Para conseguirlo, el proyecto se basa en tres ideas clave: Colaborar con pequeños productores y agricultores de toda España, para ofrecer productos de calidad sin depender de grandes cadenas ni largos transportes, diseñar una aplicación sencilla y práctica, donde los usuarios puedan comprar productos ecológicos, ver recetas, eventos y contactar fácilmente y promocionar el consumo responsable, destacando opciones sostenibles y asequibles, para que más personas se animen a elegir productos ecológicos.Con este proyecto, buscamos combinar tecnología, sostenibilidad y accesibilidad en una solución realista y útil.
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+>>> ![image](https://github.com/user-attachments/assets/9eadaaf1-88d8-4d8d-837f-46035d416154)
+>>> Consume mejor. Gasta menos. Cambia el mundo.
+
 
 Miembros:
- * :bust_in_silhouette:  AA     :octocat:     
- * :bust_in_silhouette:  BB     :octocat:
+ * :bust_in_silhouette:  Fernando Lanzarot Facio     :octocat:     
+ * :bust_in_silhouette:  Adam Navarro Megías     :octocat:
 
->>> Los equipos son de 2 personas. Identifícaros con el nombre del Grupo y los enlaces a los perfiles de GitHub de cada integrante
-
------ 
-
-
->>> Este documento es el esqueleto del Case Study que explica el proceso de desarrollo de las 5 prácticas de DIU. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este tipo de texto / comentarios desde la práctica 1 conforme proceda a cada paso
-
+----- Fernando: https://github.com/Quartenion, Adam: https://github.com/Adman23
 
 # Proceso de Diseño 
 
@@ -37,28 +33,41 @@ Miembros:
 
 ## Paso 1. UX User & Desk Research & Analisis 
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 1.a User Reseach Plan
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+Este URP se ha hecho recopilando información de varias páginas sobre mercados ecológicos. Primero, se explican sus características generales y luego se responden algunas preguntas clave como el coste, comercialización, stakeholders, etc. Estas preguntas han servido para entender mejor el contexto, los factores que influyen en los mercados ecológicos y los tipos de usuarios que pueden interactuar con ellos.
 
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe brevemente características de las aplicaciones que tiene asignadas tu grupo. Decidete por una y explica por qué se ha seleccionado. Borra esta línea cuando lo tengas. 
+Hemos comparado cuatro plataformas de mercados ecológicos: Ecomercado de Granada, Mercat de la Terra, Adelaide Central Market y Bio es Veda. Para decidir cuál es la mejor, analizamos aspectos como la entrega a domicilio, variedad de productos, facilidad de uso y si ofrecen información clara sobre los proveedores.
 
+Después de revisar todas las opciones, elegimos Bio es Veda porque es la que mejor se adapta a nuestras necesidades:
+
+1. Entrega a domicilio en toda España: A diferencia de otros mercados, Bio es Veda envía productos a cualquier parte del país sin pedir una compra mínima.
+2. Gran variedad de productos: Tiene muchas opciones de productos ecológicos, lo que facilita encontrar lo que buscamos.
+3. Página fácil de usar: Su plataforma es clara y sencilla, a diferencia de Ecomercado de Granada, que es difícil de navegar.
+4. Ofrece descuentos y reseñas: Los usuarios pueden aplicar descuentos y dejar valoraciones después de comprar, algo que no todas las otras plataformas permiten.
+5. Información detallada sobre los productos: Explica bien cada producto, lo que ayuda a los compradores a tomar una mejor decisión
+
+Aunque otras plataformas, como Adelaide Central Market, tienen buenas características, su servicio está enfocado en otro país (Australia) y tiene más restricciones. En cambio, Bio es Veda es una mejor opción para España y para quienes buscan un mercado ecológico con más facilidades.
 
 ### 1.c Personas
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+>>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.
+
+![image](https://github.com/user-attachments/assets/81674239-9dd0-4eb8-a15e-689193aadc50)
+Hazel es una mujer de 34 años Australiana que ha pasado a vivir en Granada. Ahora está en la situación de que quiere mejorar su salud de distintas formas y por eso es un personaje interesante para usarla de ejemplo para este trabajo. Hazel ha estado expuesta a comida sana, de calidad y a mercados ecológicos gran parte de su vida, por lo que es una persona con altas expectativas al respecto y que ahora mismo no le falta el dinero.
+
+![image](https://github.com/user-attachments/assets/14340c32-054a-494a-a1a2-20ce705e2079)
+Jorge es un buen ejemplo de usuario para Bio es Veda porque busca productos ecológicos fáciles de conseguir y de buena calidad para regalar a su familia. Lo diseñé como alguien que no piensa tanto en su propia salud, sino en la de los demás. Su historia muestra que tiene un vínculo con el campo y la vida rural, pero prefiere vivir en la ciudad. Esto ayuda a entender que no todos los usuarios estarán igual de interesados en los productos ecológicos, algunos los buscarán por convicción y otros solo en ciertos momentos.
+ 
 
 
 ### 1.d User Journey Map
@@ -271,6 +280,7 @@ Para más información, consultar aquí sobre la [metodología SUS](https://cui.
 
 
 >>> Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos. ¿Qué se puede mejorar? Recuerda que este tipo de texto se debe eliminar del template que se os proporciona 
+
 
 
 
