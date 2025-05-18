@@ -62,10 +62,10 @@ Aunque otras plataformas, como Adelaide Central Market, tienen buenas caracterí
 
 >>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.
 
-![image](https://github.com/user-attachments/assets/81674239-9dd0-4eb8-a15e-689193aadc50)
+![image]([https://github.com/user-attachments/assets/81674239-9dd0-4eb8-a15e-689193aadc50](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/master/P1/Persona_%20Hazel.png))
 Hazel es una mujer de 34 años Australiana que ha pasado a vivir en Granada. Ahora está en la situación de que quiere mejorar su salud de distintas formas y por eso es un personaje interesante para usarla de ejemplo para este trabajo. Hazel ha estado expuesta a comida sana, de calidad y a mercados ecológicos gran parte de su vida, por lo que es una persona con altas expectativas al respecto y que ahora mismo no le falta el dinero.
 
-![image](https://github.com/user-attachments/assets/14340c32-054a-494a-a1a2-20ce705e2079)
+![image]([https://github.com/user-attachments/assets/14340c32-054a-494a-a1a2-20ce705e2079](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/master/P1/Jorge_persona.png))
 Jorge es un buen ejemplo de usuario para Bio es Veda porque busca productos ecológicos fáciles de conseguir y de buena calidad para regalar a su familia. Lo diseñé como alguien que no piensa tanto en su propia salud, sino en la de los demás. Su historia muestra que tiene un vínculo con el campo y la vida rural, pero prefiere vivir en la ciudad. Esto ayuda a entender que no todos los usuarios estarán igual de interesados en los productos ecológicos, algunos los buscarán por convicción y otros solo en ciertos momentos.
  
 
@@ -74,7 +74,17 @@ Jorge es un buen ejemplo de usuario para Bio es Veda porque busca productos ecol
 ![Método UX](img/JourneyMap.png) 
 ----
 
->>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.  
+>>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.
+>>>
+![image]([[https://github.com/user-attachments/assets/81674239-9dd0-4eb8-a15e-689193aadc50](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/master/P1/Persona_%20Hazel.png)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/master/P1/Journy%20map_%20Hazel.pdf))
+Hazel se encuentra con la página del Ecomercado de Granada, ella no sabe que la página está desactualizada y abandonada e intenta interactuar con los distintos apartados volviéndose frustrada con la situación. No diría que es una experiencia totalmente común, pero si buscas ecomercados en Granada es de los primeros resultados, por lo que tiene que pasar más de lo que pensamos.
+
+
+
+![image]([[https://github.com/user-attachments/assets/14340c32-054a-494a-a1a2-20ce705e2079](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/master/P1/Jorge_persona.png)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/master/P1/Journy%20map_Jorge.pdf))
+DESCRIPCIÓN
+
+
 
 
 ### 1.e Usability Review
