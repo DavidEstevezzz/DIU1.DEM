@@ -91,10 +91,10 @@ El journeymap describe la experiencia de Jorge al comprar productos ecológicos 
 
 ## Paso 2. UX Design  
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-### 2.a Reframing / IDEACION: Feedback Capture Grid / EMpathy map 
+### 2.a Reframing / IDEACION: Feedback Capture Grid / Empathy map 
 ![Método UX](img/feedback-capture-grid.png) 
+![image](https://github.com/user-attachments/assets/3cad25d8-d5ca-45f4-828c-332ac8aa8b2d)
+[Ver Feedback Capture Grid (PDF)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/raw/62ccd35cc7ccf7930f5bce2def2f102368db8b8c/P2/Feedback-Capture-Grid.pdf)
 ----
 
 >>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
