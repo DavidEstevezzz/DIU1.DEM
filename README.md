@@ -34,16 +34,14 @@ Miembros:
 ## Paso 1. UX User & Desk Research & Analisis 
 
 ### 1.a User Reseach Plan
-![Método UX](img/Competitive.png) 
------
-
+https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/293994ba06c845876bf5896f276bae557762a515/P1/UX_Research_Plan.pdf
 Este URP se ha hecho recopilando información de varias páginas sobre mercados ecológicos. Primero, se explican sus características generales y luego se responden algunas preguntas clave como el coste, comercialización, stakeholders, etc. Estas preguntas han servido para entender mejor el contexto, los factores que influyen en los mercados ecológicos y los tipos de usuarios que pueden interactuar con ellos.
 
 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
-
+[![Competitor Analysis](https://github.com/user-attachments/assets/fb9b4552-88a1-4034-9c3d-0501186b40ed)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/raw/293994ba06c845876bf5896f276bae557762a515/P1/CompetitorAnalysis_EcoMarkets.pdf)
 Hemos comparado cuatro plataformas de mercados ecológicos: Ecomercado de Granada, Mercat de la Terra, Adelaide Central Market y Bio es Veda. Para decidir cuál es la mejor, analizamos aspectos como la entrega a domicilio, variedad de productos, facilidad de uso y si ofrecen información clara sobre los proveedores.
 
 Después de revisar todas las opciones, elegimos Bio es Veda porque es la que mejor se adapta a nuestras necesidades:
@@ -60,12 +58,11 @@ Aunque otras plataformas, como Adelaide Central Market, tienen buenas caracterí
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.
+[![Hazel](https://raw.githubusercontent.com/Adman23/BIO-AHORRO_CaseStudy/293994ba06c845876bf5896f276bae557762a515/P1/Persona_%20Hazel.png)](https://github.com/Adman23/BIO)
 
-![image]([https://github.com/user-attachments/assets/81674239-9dd0-4eb8-a15e-689193aadc50](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/master/P1/Persona_%20Hazel.png))
 Hazel es una mujer de 34 años Australiana que ha pasado a vivir en Granada. Ahora está en la situación de que quiere mejorar su salud de distintas formas y por eso es un personaje interesante para usarla de ejemplo para este trabajo. Hazel ha estado expuesta a comida sana, de calidad y a mercados ecológicos gran parte de su vida, por lo que es una persona con altas expectativas al respecto y que ahora mismo no le falta el dinero.
 
-![image]([https://github.com/user-attachments/assets/14340c32-054a-494a-a1a2-20ce705e2079](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/master/P1/Jorge_persona.png))
+[![Jorge](https://raw.githubusercontent.com/Adman23/BIO-AHORRO_CaseStudy/293994ba06c845876bf5896f276bae557762a515/P1/Jorge_persona.png)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/293994ba06c845876bf5896f276bae557762a515/P1/Jorge_persona.png)
 Jorge es un buen ejemplo de usuario para Bio es Veda porque busca productos ecológicos fáciles de conseguir y de buena calidad para regalar a su familia. Lo diseñé como alguien que no piensa tanto en su propia salud, sino en la de los demás. Su historia muestra que tiene un vínculo con el campo y la vida rural, pero prefiere vivir en la ciudad. Esto ayuda a entender que no todos los usuarios estarán igual de interesados en los productos ecológicos, algunos los buscarán por convicción y otros solo en ciertos momentos.
  
 
@@ -76,25 +73,19 @@ Jorge es un buen ejemplo de usuario para Bio es Veda porque busca productos ecol
 
 >>> Describe el porqué de las dos experiencias de usuario contadas en el journey map. Por ejemplo, reflexiona si te parece que son habituales. Enlaza con los recursos journey que están en la carpeta P1/. Borra esta linea del template cuando termines.
 >>>
-![image]([[https://github.com/user-attachments/assets/81674239-9dd0-4eb8-a15e-689193aadc50](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/master/P1/Persona_%20Hazel.png)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/master/P1/Journy%20map_%20Hazel.pdf))
+![Journey map de Hazel](https://raw.githubusercontent.com/Adman23/BIO-AHORRO_CaseStudy/293994ba06c845876bf5896f276bae557762a515/P1/Journy%20map_%20Hazel.png)
 Hazel se encuentra con la página del Ecomercado de Granada, ella no sabe que la página está desactualizada y abandonada e intenta interactuar con los distintos apartados volviéndose frustrada con la situación. No diría que es una experiencia totalmente común, pero si buscas ecomercados en Granada es de los primeros resultados, por lo que tiene que pasar más de lo que pensamos.
 
-
-
-![image]([[https://github.com/user-attachments/assets/14340c32-054a-494a-a1a2-20ce705e2079](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/master/P1/Jorge_persona.png)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/master/P1/Journy%20map_Jorge.pdf))
-DESCRIPCIÓN
-
-
-
+[![Jorge Persona](https://github.com/user-attachments/assets/ed744749-e6a6-47ea-9f60-16900127dc16)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/raw/293994ba06c845876bf5896f276bae557762a515/P1/Journy%20map_Jorge.pdf)
+El journeymap describe la experiencia de Jorge al comprar productos ecológicos en la tienda Bio es Veda. Jorge enfrenta problemas como poca información en redes sociales, falta de reseñas de otros clientes y dudas sobre los descuentos. Para mejorar su experiencia, se proponen acciones como aumentar la publicidad, ofrecer cestas ya preparadas y brindar atención rápida por WhatsApp, con el objetivo de que Jorge encuentre la tienda más fácilmente y compre con mayor confianza.
 
 ### 1.e Usability Review
 ![Método UX](img/usabilityReview.png) 
 ----
 
->>>  El objetivo es revisar la usabilidad del competidor seleccionado. Usamos un checklist de verificación. Tras usarlo, subelo a la carpeta P1/ Ofrece aquí un parrafo para:
->>> - Enlace al documento:  (xls/pdf) 
->>> - URL y Valoración numérica obtenida: 
->>> - Comentario sobre la revisión:  (puntos fuertes y débiles detectados)
+>>> - Enlace al documento: [(xls/pdf) ](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/293994ba06c845876bf5896f276bae557762a515/P1/Usability_Review_BioVeda.pdf)
+>>> - URL y Valoración numérica obtenida: 52.558%
+>>> - Comentario sobre la revisión:  En el usability review hemos utilizado la plantilla para analizar en profundidad el competidor escogido, Bio es Veda. Este análisis ha tenido una puntuación total de 52.558%, y hemos podido ver muchas carencias en la página que se podrían solventar (ayuda y navegabilidad), pero también algunas cosas que hace muy bien como la búsqueda de productos y la variedad de los mismos.
 
 <br>
 
