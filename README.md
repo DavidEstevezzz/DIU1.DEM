@@ -226,9 +226,28 @@ Estas decisiones tienen como objetivo hacer que la app sea fácil de usar, acces
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
 ----
+## MOCK UPS - BOCETOS HI-FI
 
->>> Consiste en tener un Layout en acción. Un Mockup es un prototipo HTML que permite simular tareas con estilo de IU seleccionado. Muy útil para compartir con stakeholders
+LINK PROTOTIPO: https://www.figma.com/proto/NsWmqf8UViA7fgWY71rynk/BOCETOS-HI-FI?node-id=3-4&p=f&t=bHbg3vztgEGlAOlK-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=3%3A4
 
+LINK BOCETOS: https://www.figma.com/design/NsWmqf8UViA7fgWY71rynk/BOCETOS-HI-FI?node-id=0-1&t=SXvtXueBJQHZ5jsy-1
+
+-Hemos hecho alrededor de 16 bocetos, depende de si cuenta el menú desplegable o las versiones alternativas, y se puede ver en el enlace de figma por un lado el prototipo en movimiento y por otro lado todos los bocetos juntos y extendidos.
+
+
+-Primero hemos empezado rescantando todo lo posible de los bocetos que hicimos en la anterior práctica, como headings imágenes y algunas cosas, luego hemos definido los bocetos mas básicos como el home, store, account, ... y hemos implementado la funcionalidad de botones como el menú desplegable para que se puedan acceder a los distintos apartados. Para ello se usa una animación de overlay con el boceto del menú, colocándose encima.
+
+-Luego el boceto del menú tiene detalles como el carousel que hemos usado un asset de carousel que lo hemos editado para simular uno, y se puede arrastrar para pasar por los productos destacados (son repetidos pero muestra la funcionalidad, los productos en sí es indiferente), además hemos añadido una animación de cambio automático a los 3 segundos que no traía el asset.
+
+-Para cambios de estado como los botones de grid o list en la store hemos hecho 2 bocetos y con cada botón se cambian entre sí.
+
+-En general para todos los bocetos hemos reutilizado header y footer que también tienen botones para moverse por las páginas.
+
+-Luego están bocetos mas estáticos como el carro de la compra o las páginas específicas y generales de producto o evento (que muestran como podría ser la descripción de uno).
+
+-Para la página de información en el apartado de artículos hemos puesto un "ver más", que se podría aplicar para todas las partes en las que pone ver más y simplemente funciona para ver más artículos (lo hace pasando a una copia del boceto con más articulos).
+
+-Importante indicar que el logo pequeño que sale siempre hace volver al home, para que se pueda navegar bien.
 
 ### 3.e ¿My UX-Case Study?
 ![Método UX](img/caseStudy.png) 
