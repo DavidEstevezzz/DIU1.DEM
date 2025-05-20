@@ -58,7 +58,7 @@ Aunque otras plataformas, como Adelaide Central Market, tienen buenas caracterí
 ![Método UX](img/Persona.png) 
 -----
 
-[![Hazel](https://raw.githubusercontent.com/Adman23/BIO-AHORRO_CaseStudy/293994ba06c845876bf5896f276bae557762a515/P1/Persona_%20Hazel.png)](https://github.com/Adman23/BIO)
+[![Hazel](https://raw.githubusercontent.com/Adman23/BIO-AHORRO_CaseStudy/293994ba06c845876bf5896f276bae557762a515/P1/Persona_%20Hazel.png)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/293994ba06c845876bf5896f276bae557762a515/P1/Persona_%20Hazel.png)
 
 Hazel es una mujer de 34 años Australiana que ha pasado a vivir en Granada. Ahora está en la situación de que quiere mejorar su salud de distintas formas y por eso es un personaje interesante para usarla de ejemplo para este trabajo. Hazel ha estado expuesta a comida sana, de calidad y a mercados ecológicos gran parte de su vida, por lo que es una persona con altas expectativas al respecto y que ahora mismo no le falta el dinero.
 
@@ -93,43 +93,44 @@ El journeymap describe la experiencia de Jorge al comprar productos ecológicos 
 
 ### 2.a Reframing / IDEACION: Feedback Capture Grid / Empathy map 
 ![Método UX](img/feedback-capture-grid.png) 
-![image](https://github.com/user-attachments/assets/3cad25d8-d5ca-45f4-828c-332ac8aa8b2d)
-[Ver Feedback Capture Grid (PDF)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/raw/62ccd35cc7ccf7930f5bce2def2f102368db8b8c/P2/Feedback-Capture-Grid.pdf)
+[![Feedback Capture Grid](https://github.com/user-attachments/assets/3cad25d8-d5ca-45f4-828c-332ac8aa8b2d)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/62ccd35cc7ccf7930f5bce2def2f102368db8b8c/P2/Feedback-Capture-Grid.pdf)
+[![Empathy Map](https://github.com/user-attachments/assets/a82c6b0c-ccad-4a20-a2f4-de321b28db20)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/f097426905a2718de3d183c511baaaf6742dbe60/P2/Empathy%20Customer%20Map.pdf)
+
 ----
 
->>> Comenta con un diagrama los aspectos más destacados a modo de conclusion de la práctica anterior. De qué carece la competencia?? Tu diagrama puede ser una figura subida a la carpeta P2/
+La propuesta de valor de nuestro proyecto se refleja principalmente en la accesibilidad de los productos ecológicos a un mercado más generalista, es decir, expandir el consumo de productos ecológicos de un nicho a algo común. Esto lo queremos conseguir de varias formas, la primera sería trabajar con múltiples negocios pequeños y agricultores a lo largo de España, para facilitar que los consumidores (ya sean los propios negocios o personas que quieren hacer la compra) accedan a productos de calidad con precios razonables y que les pueda interesar más que comprar todo el el supermercado. Otra forma sería creando una red de producción extensa, trabajando con muchos productores y agricultores a lo largo de España permitiendo distribuir de manera sostenible (sin tener que realizar largas rutas de transporte) gran cantidad de productos ecológicos para suplir la demanda que necesitaría un público más general. La última más importante sería el marketing, ya que aun siendo ahora más popular, sigue siendo algo poco extendido, especialmente hoy en día que el presupuesto del ciudadano promedio es bajo en comparación a los costes, por lo que es normal que quieran evitar gastarse más en productos ecológicos si de primeras no les llega para fin de mes. Nuestro objetivo es concienciar y promocionar especialmente los productos que no sean muy caros dentro de los productos ecológicos, no buscamos la calidad perfecta sino la sostenibilidad, y de esta forma intentar llegar a la mayor cantidad de gente posible.
 
-
- Interesante | Críticas     
-| ------------- | -------
-  Preguntas | Nuevas ideas
-  
-    
->>> Explica el Problema y plantea una hipótesis. Es decir, explica aquí qué 
->>> se plantea como "propuesta de valor" para un nuevo diseño de aplicación propio
-
+Luego esta propuesta de valor la hemos resumido y concretado en el documento del Scope Canvas donde ya se va solidificando el proyecto, indicamos el nombre de nuestr proyecto (BioesAhorro), además de darle niveles de prioridad a los problemas y las motivaciones de los usuarios. También establecemos los objetivos a largo y corto plazo a cordes a nuestra propuesta de valor y concretamos que acciones queremos que puedan hacer los usuarios y las métricas con las que medirémos el exito de nuestro proyecto.
 
 ### 2.b ScopeCanvas
 ![Método UX](img/ScopeCanvas.png)
 ----
 
->>> Propuesta de valor, pero ahora en vez de un texto es un ScopeCanvas que has subido a P2/ y enlazado desde aqui. Tambien vale una imagen miniatura del recurso.
->>> No olvides que tu propuesta ya tiene un nombre corto y puedes actualizar la cabecera de este archivo
-
-
+[![Scope Canvas](https://github.com/user-attachments/assets/64d3ed7a-cad1-4a31-9855-5a96e69edf64)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/f097426905a2718de3d183c511baaaf6742dbe60/P2/Scope%20Canvas.pdf)
 
 ### 2.b User Flow (task) analysis 
 ![Método UX](img/Sitemap.png) 
 -----
+[![User Flows](https://github.com/user-attachments/assets/708ba125-a6c9-4901-93a4-beaf23fd4b02)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/f097426905a2718de3d183c511baaaf6742dbe60/P2/Users%20flows.pdf)
+![image](https://github.com/user-attachments/assets/880e05ca-9563-4e57-8d2f-7aa4160ab32b)
 
->>> Definir "User Map" y "Task Flow" ... enlazar desde P2/ y describir brevemente
+| Flujo                            | Descripción                                                                                                                                                                           |
+| -------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Inicio**                    | El usuario accede desde la **Landing Page**, donde puede navegar hacia la tienda, iniciar sesión o contactar.                                                                         |
+| **Exploración de productos** | Desde la sección **Tienda**, se accede al **Listado de productos**. Allí se puede explorar o utilizar el buscador para encontrar artículos específicos.                               |
+| **Añadir producto**            | Una vez encontrado el producto, se puede añadir directamente desde el listado o entrando al **Panel del producto**. Se añade al **Carrito**.                                          |
+| **Eliminar producto**          | Desde el **Carrito**, el usuario puede eliminar productos previamente añadidos. Esto puede hacerse en cualquier momento después de añadir.                                            |
+| **Inicio de sesión**          | El usuario puede iniciar sesión desde cualquier página. Si ya tiene sesión iniciada, accede automáticamente a su cuenta. Esto es requerido para acceder al **Panel de Pago**.         |
+| **Compra**                    | Tras iniciar sesión y revisar el carrito, el usuario puede acceder al **Panel de compra** y luego al **Panel de pago** si la sesión está activa.                                      |
+| **Contacto**                  | Desde la **Landing Page**, se puede ir a **Contactar**, donde se ofrecen múltiples formas de comunicación (correo, teléfono, redes). Incluye también acceso a la sección "colaborar". |
 
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
-----
+[![Task Analysis](https://github.com/user-attachments/assets/50eb2b22-cfcc-405e-af45-9a5a329171e7)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/f097426905a2718de3d183c511baaaf6742dbe60/P2/task%20analysis%20-%20Hoja%201.pdf)
+[![Organización Lógica de Navegación](https://github.com/user-attachments/assets/9b7b862f-fe3e-450d-bdbb-2e05cf7b2015)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/f097426905a2718de3d183c511baaaf6742dbe60/P2/ORGANIZACI%C3%93N%20L%C3%93GICA%20DE%20NAVEGACI%C3%93N.pdf)
 
->>> Identificar términos para diálogo con usuario (evita el spanglish) y la arquitectura de la información. Es muy apropiado un diagrama tipo sitemap y una tabla que se ampliaría para llevar asociado la columna iconos (tanto para la web como para una app). 
+----
 
 Término | Significado     
 | ------------- | -------
@@ -139,8 +140,17 @@ Término | Significado
 ### 2.d Wireframes
 ![Método UX](img/Wireframes.png) 
 -----
+[![Wireframe (1)](https://github.com/user-attachments/assets/2a71db88-902b-4f68-8e8b-cf9f2aa3d588)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/f097426905a2718de3d183c511baaaf6742dbe60/P2/Wireframe%20(1).pdf)
+[![Wireframe (2)](https://github.com/user-attachments/assets/41fbce97-ad66-454f-9e65-81cd0d6eca8a)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/f097426905a2718de3d183c511baaaf6742dbe60/P2/Wireframe%20(2).pdf)
+[![Wireframe](https://github.com/user-attachments/assets/64fe317d-3ce0-49d4-96d4-3fe100058aab)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/f097426905a2718de3d183c511baaaf6742dbe60/P2/Wireframe.pdf)
 
->>> Plantear el diseño del layout para Web/movil (organización y simulación). Describa la herramienta usada 
+[BOCETOS-LOFI](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/f097426905a2718de3d183c511baaaf6742dbe60/P2/bocetos-lofi.pdf)
+
+[![Bocetos figma 1](https://github.com/user-attachments/assets/abfbaa7b-5057-41e8-92b2-5357eb953f5a)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/f097426905a2718de3d183c511baaaf6742dbe60/P2/Bocetos%20figma.pdf)
+[![Bocetos figma 2](https://github.com/user-attachments/assets/bb9338cb-bb30-4e3d-8bbc-43932d17a160)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/f097426905a2718de3d183c511baaaf6742dbe60/P2/Bocetos%20figma%20(2).pdf)
+[![Bocetos figma 3](https://github.com/user-attachments/assets/db1d855f-da37-4173-9daf-a352371c0c40)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/f097426905a2718de3d183c511baaaf6742dbe60/P2/Bocetos%20figma%20(1).pdf)
+
+[Abrir bocetos dinámicos](https://www.figma.com/design/VZ2KirkAMx8hONmIZokPyq/Bocetos-figma?node-id=0-1&t=lX9TOAhmYfpW4Log-1)
 
 <br>
 
