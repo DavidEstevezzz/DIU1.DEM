@@ -127,6 +127,7 @@ Luego esta propuesta de valor la hemos resumido y concretado en el documento del
 
 ### 2.c IA: Sitemap + Labelling 
 ![Método UX](img/labelling.png) 
+
 [![Task Analysis](https://github.com/user-attachments/assets/50eb2b22-cfcc-405e-af45-9a5a329171e7)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/f097426905a2718de3d183c511baaaf6742dbe60/P2/task%20analysis%20-%20Hoja%201.pdf)
 [![Organización Lógica de Navegación](https://github.com/user-attachments/assets/9b7b862f-fe3e-450d-bdbb-2e05cf7b2015)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/f097426905a2718de3d183c511baaaf6742dbe60/P2/ORGANIZACI%C3%93N%20L%C3%93GICA%20DE%20NAVEGACI%C3%93N.pdf)
 
@@ -156,24 +157,35 @@ Término | Significado
 
 ## Paso 3. Mi UX-Case Study (diseño)
 
->>> Cualquier título puede ser adaptado. Recuerda borrar estos comentarios del template en tu documento
-
-
 ### 3.a Moodboard
 ![Método UX](img/moodboard.png)
+[![Moodboard](https://github.com/user-attachments/assets/c582b229-f1a5-4ed9-949b-2d2b9540abb8)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/5b00c7a97f3d1973e529edac30de059794f9677c/P3/Moodboard.pdf)
+
 -----
 
->>> Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo. Todos los recursos estarán subidos a la carpeta P3/
->>> Explique aqui la/s herramienta/s utilizada/s y el por qué de la resolución empleada. Reflexione ¿Se puede usar esta imagen como cabecera de Instagram, por ejemplo, o se necesitan otras?
+[Moodboard en Figma](https://www.figma.com/board/3DZtIuyeeukGvWIXkbtmqH/Moodboard-P3?node-id=0-1&t=Dtw1utyGHDXuRYmI-1)
+
+-El moodboard es una buena base que permite ir detallando cada uno de los componentes que van a cimentar la interfaz de nuestra aplicación. Para realizarlo hemos estado investigando primero un poco cual es el enfoque que le queríamos dar, buscando imágenes de ejemplo como las que se pueden ver en el resultado y también pensando el slogan en base a nuestra propuesta de valor.
+
+-Hemos utilizado herramientas de IA para generar varios logos posibles y al final nos hemos decantado por uno más simple de lo que habíamos pensado al principio porque viene mejor para el estilo que al final hemos hecho.
+
+-La tipografía nunito nos fijamos en un trabajo de otro año que la usaba y luego la buscamos y nos encajaba con lo que queríamos para nuestra página (explicación en los guidelines de porqué). Estabamos buscando otra tipografía para títulos y Agbalumo nos pareció bonita desde el principio, a si que la hemos aplicado para headings que separan partes, pero no sería buena para textos.
+
+-Los colores teníamos más o menos claro que queríamos (verdes y marrones) porque incluso sabiendo solo un poco de psicología de colores todos reconocemos esos colores por naturaleza, y en concreto nos hemos decantado por los que aparecen en el moodboard porque encajan bien entre sí y no son demasiado cargados, es decir, no producen mucha fatiga visual.
+
+-Para los iconos no nos hemos complicado, hemos buscado iconos simples que sean fácilmente reconocibles, algunos de ellos generados por IA. Para las imágenes muchas de ellas las hemos buscado en pinterest.
+
+-También hemos usado de inspiración para los diseños otras páginas de mercados (las hemos puesto en colaboradores como referencia).
+
+-Las guidelines explican más o menos esto mismo, además también hemos indicado para cada uno de los bocetos y apartados que queríamos hacer un poco el como debería de ser, un planteamiento, algunos más detallados que otros.
+
+-La imágen del lógo si se podría utilizar en instagram ya que es circular, reconocible, y altamente visible incluso cuando es pequeña.
 
 
 ### 3.b Landing Page
 ![Método UX](img/landing-page.png) 
 ----
-
->>> Plantear el Landing Page del producto. Aplica estilos definidos en el moodboard
-
+![image](https://github.com/user-attachments/assets/64b1b8bd-d62b-4481-ab65-c56b57443770)
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
