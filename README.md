@@ -77,7 +77,7 @@ Jorge es un buen ejemplo de usuario para Bio es Veda porque busca productos ecol
 ![Journey map de Hazel](https://raw.githubusercontent.com/Adman23/BIO-AHORRO_CaseStudy/293994ba06c845876bf5896f276bae557762a515/P1/Journy%20map_%20Hazel.png)
 Hazel se encuentra con la página del Ecomercado de Granada, ella no sabe que la página está desactualizada y abandonada e intenta interactuar con los distintos apartados volviéndose frustrada con la situación. No diría que es una experiencia totalmente común, pero si buscas ecomercados en Granada es de los primeros resultados, por lo que tiene que pasar más de lo que pensamos.
 
-[![Jorge Persona](https://github.com/user-attachments/assets/ed744749-e6a6-47ea-9f60-16900127dc16)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/raw/293994ba06c845876bf5896f276bae557762a515/P1/Journy%20map_Jorge.pdf)
+[![Jorge Persona](https://github.com/user-attachments/assets/ed744749-e6a6-47ea-9f60-16900127dc16)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/293994ba06c845876bf5896f276bae557762a515/P1/Journy%20map_Jorge.pdf)
 El journeymap describe la experiencia de Jorge al comprar productos ecológicos en la tienda Bio es Veda. Jorge enfrenta problemas como poca información en redes sociales, falta de reseñas de otros clientes y dudas sobre los descuentos. Para mejorar su experiencia, se proponen acciones como aumentar la publicidad, ofrecer cestas ya preparadas y brindar atención rápida por WhatsApp, con el objetivo de que Jorge encuentre la tienda más fácilmente y compre con mayor confianza.
 
 ### 1.e Usability Review
