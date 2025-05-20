@@ -41,7 +41,7 @@ Este URP se ha hecho recopilando información de varias páginas sobre mercados 
 ### 1.b Competitive Analysis
 ![Método UX](img/Competitive.png) 
 -----
-[![Competitor Analysis](https://github.com/user-attachments/assets/fb9b4552-88a1-4034-9c3d-0501186b40ed)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/raw/293994ba06c845876bf5896f276bae557762a515/P1/CompetitorAnalysis_EcoMarkets.pdf)
+[![Competitor Analysis](https://github.com/user-attachments/assets/fb9b4552-88a1-4034-9c3d-0501186b40ed)](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/293994ba06c845876bf5896f276bae557762a515/P1/CompetitorAnalysis_EcoMarkets.pdf)
 Hemos comparado cuatro plataformas de mercados ecológicos: Ecomercado de Granada, Mercat de la Terra, Adelaide Central Market y Bio es Veda. Para decidir cuál es la mejor, analizamos aspectos como la entrega a domicilio, variedad de productos, facilidad de uso y si ofrecen información clara sobre los proveedores.
 
 Después de revisar todas las opciones, elegimos Bio es Veda porque es la que mejor se adapta a nuestras necesidades:
