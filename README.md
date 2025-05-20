@@ -34,7 +34,7 @@ Miembros:
 ## Paso 1. UX User & Desk Research & Analisis 
 
 ### 1.a User Reseach Plan
-https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/293994ba06c845876bf5896f276bae557762a515/P1/UX_Research_Plan.pdf
+[USER RESEARCH PLAN](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/293994ba06c845876bf5896f276bae557762a515/P1/UX_Research_Plan.pdf)
 Este URP se ha hecho recopilando información de varias páginas sobre mercados ecológicos. Primero, se explican sus características generales y luego se responden algunas preguntas clave como el coste, comercialización, stakeholders, etc. Estas preguntas han servido para entender mejor el contexto, los factores que influyen en los mercados ecológicos y los tipos de usuarios que pueden interactuar con ellos.
 
 
