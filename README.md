@@ -18,6 +18,7 @@ Descripción:
 Logotipo: 
 
 >>> ![image](https://github.com/user-attachments/assets/9eadaaf1-88d8-4d8d-837f-46035d416154)
+>>> 
 >>> Consume mejor. Gasta menos. Cambia el mundo.
 
 
