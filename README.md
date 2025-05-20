@@ -189,11 +189,39 @@ Término | Significado
 
 ### 3.c Guidelines
 ![Método UX](img/guidelines.png) 
+[Guía de estilo - Guidelines](https://github.com/Adman23/BIO-AHORRO_CaseStudy/blob/5b83c75168d89f08b46cf22a85164eedfdb61006/P3/Guidelines-1.pdf)
 ----
 
->>> Estudio de Guidelines y explicación de los Patrones IU a usar 
->>> Es decir, tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+## Decisiones sobre Patrones IU
 
+1. **Menú adaptable y accesible**  
+   - Implementación de un menú hamburguesa desplegable que permita acceso completo a todas las secciones en dispositivos móviles.  
+   - Menú inferior fijo para accesos rápidos a las secciones más utilizadas: Carrito, Tienda y Cuenta.
+
+2. **Tarjetas visuales para contenido**  
+   - Uso de tarjetas para representar productos, recetas y eventos. Cada tarjeta incluye imagen, título, información clave (precio, fecha, categoría) y enlace rápido al detalle.
+
+3. **Buscador con filtros**  
+   - Barra de búsqueda con capacidad de filtrar resultados por categorías para facilitar la localización rápida de productos, recetas o eventos.
+
+4. **Carrusel dinámico en página principal**  
+   - Carrusel visual para mostrar productos destacados, promociones y novedades de manera atractiva y moderna.
+
+5. **Formularios simples y directos**  
+   - Formularios minimalistas para registro, inicio de sesión y contacto que simplifican la interacción y reducen la fricción para el usuario.
+
+6. **Iconos familiares y coherentes**  
+   - Uso de iconografía sencilla, clara y reconocible, basada en estándares comunes, para facilitar la comprensión y navegación.
+
+7. **Páginas detalladas con jerarquía visual**  
+   - Estructura clara en páginas individuales de productos, recetas y eventos, con información organizada y elementos interactivos como mapas y botones destacados.
+
+8. **Chatbot básico y accesible**  
+   - Incorporación de un chatbot sencillo que permita soporte rápido sin complicar la interfaz.
+
+## Objetivo
+
+Estas decisiones tienen como objetivo hacer que la app sea fácil de usar, accesible para todos y que tenga un diseño acorde con la identidad ecológica de BIO - AHORRO. Queremos que los usuarios naveguen sin dificultad y se sientan cómodos usando la plataforma.
 
 ### 3.d Mockup
 ![Método UX](img/mockup.png) 
