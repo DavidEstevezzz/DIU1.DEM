@@ -1,6 +1,9 @@
 # DIU - Practica 3, entregables
 
-- Moodboard (diseño visual + logotipo)   
+- Moodboard (diseño visual + logotipo)
+
+https://www.figma.com/design/ysAWW2HEj9rImYPwZxmaI0/Untitled?node-id=1-2&m=dev&t=00uPJPW08zR6mF9h-1
+
 - Landing Page
 - Mockup: LAYOUT HI-FI
 - Publicación del Case Study
