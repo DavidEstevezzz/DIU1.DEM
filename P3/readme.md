@@ -7,7 +7,7 @@
 
 ## MOODBOARD
 
-LINK: https://www.figma.com/board/3DZtIuyeeukGvWIXkbtmqH/Moodboard-P3?node-id=0-1&t=Dtw1utyGHDXuRYmI-1
+LINK: [https://www.figma.com/board/3DZtIuyeeukGvWIXkbtmqH/Moodboard-P3?node-id=0-1&t=Dtw1utyGHDXuRYmI-1](https://www.figma.com/design/ysAWW2HEj9rImYPwZxmaI0/Untitled?node-id=0-1&p=f&t=KIH3QW5lqZZffMNV-0)
 
 -El moodboard es una buena base que permite ir detallando cada uno de los componentes que van a cimentar la interfaz de nuestra aplicación. Para realizarlo hemos estado investigando primero un poco cual es el enfoque que le queríamos dar, buscando imágenes de ejemplo como las que se pueden ver en el resultado y también pensando el slogan en base a nuestra propuesta de valor.
 
