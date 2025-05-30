@@ -124,6 +124,199 @@
 
 **🎯 RESULTADO**: Muestra balanceada que cubre todo el espectro de usuarios objetivo de GreenBasket, garantizando feedback relevante y accionable.
 - Diseño de las pruebas
+
+  # 🧪 **DISEÑO DE PRUEBAS - GREENBASKET A/B TESTING**
+
+## 📋 **CONFIGURACIÓN DEL EXPERIMENTO**
+
+### **🎯 Hipótesis de Investigación**
+- **H0**: No existe diferencia significativa en usabilidad entre el diseño A (GreenBasket) y diseño B (competidor)
+- **H1**: El diseño A presenta superior usabilidad para compra de productos ecológicos
+- **Métrica primaria**: SUS Score > 75 puntos
+- **Significancia estadística**: Diferencia mínima de 10 puntos entre grupos
+
+---
+
+## 🏗️ **ESTRUCTURA DE PRUEBAS EN MAZE**
+
+### **Prueba 1: BIENVENIDA Y CONTEXTO**
+**Tipo**: Pregunta introductoria
+**Duración**: 1 minuto
+```
+"Eres una persona interesada en adoptar un estilo de vida más sostenible y 
+buscas una aplicación para comprar productos ecológicos locales. 
+¿Con qué frecuencia compras productos ecológicos actualmente?"
+
+□ Nunca o casi nunca
+□ Ocasionalmente (1-2 veces al mes)  
+□ Regularmente (semanalmente)
+□ Soy un comprador habitual (varias veces por semana)
+```
+
+### **Prueba 2: PRIMERA IMPRESIÓN**
+**Tipo**: Tarea + Heat Map
+**Duración**: 30 segundos
+**Pantalla**: Home/Landing
+```
+Instrucciones: "Observa esta pantalla durante 30 segundos. Sin hacer clic, 
+identifica mentalmente qué tipo de productos se venden y cuál sería tu 
+próximo paso para explorar."
+
+Pregunta posterior: "¿Qué fue lo primero que captó tu atención?"
+□ El logo y nombre de la app
+□ Los productos destacados  
+□ Las categorías de productos
+□ Los precios
+□ Otro: ___________
+```
+
+### **Prueba 3: NAVEGACIÓN EXPLORATORIA**
+**Tipo**: Tarea dirigida con seguimiento de clicks
+**Duración**: 2 minutos
+**Ruta**: Home → Categorías → Producto específico
+```
+Instrucciones: "Quieres comprar manzanas ecológicas para tu familia. 
+Explora la aplicación y encuentra manzanas que sean de origen local."
+
+Tareas específicas:
+1. Encuentra la sección de frutas
+2. Localiza manzanas ecológicas  
+3. Identifica cuáles son de origen local
+4. Selecciona las que más te convenzan
+
+Métrica: Tiempo hasta completar + clicks necesarios
+```
+
+### **Prueba 4: EVALUACIÓN DE PRODUCTO**
+**Tipo**: Tarea + Cuestionario de información
+**Duración**: 90 segundos
+**Pantalla**: Detalle de producto
+```
+Instrucciones: "Estás viendo un producto específico. Evalúa si la 
+información te da suficiente confianza para comprarlo."
+
+Preguntas post-tarea:
+1. "¿La información sobre el origen ecológico es clara?" (1-5)
+2. "¿Confías en la calidad del producto presentado?" (1-5)  
+3. "¿Falta alguna información importante?" (Texto libre)
+4. "¿Añadirías este producto al carrito?" (Sí/No)
+```
+
+### **Prueba 5: PROCESO DE COMPRA**
+**Tipo**: Tarea compleja con checkpoints
+**Duración**: 3 minutos
+**Flujo**: Producto → Carrito → Checkout (sin pago)
+```
+Instrucciones: "Añade 2 productos diferentes al carrito y llega hasta 
+el paso de introducir el método de pago (sin completar la compra)."
+
+Checkpoints medidos:
+□ Producto añadido al carrito exitosamente
+□ Navegación al carrito realizada  
+□ Modificación de cantidad exitosa
+□ Acceso al checkout iniciado
+□ Información de entrega completada
+□ Llegada al paso de pago
+
+Métrica: Tasa de completación + tiempo por checkpoint
+```
+
+### **Prueba 6: CUESTIONARIO SUS**
+**Tipo**: Escala estándar SUS adaptada
+**Duración**: 3 minutos
+```
+"Evalúa tu experiencia general con la aplicación:"
+
+[Escala 1-5: Totalmente en desacuerdo → Totalmente de acuerdo]
+
+1. Me gustará usar con frecuencia esta app de productos ecológicos
+2. Encontré la aplicación innecesariamente compleja
+3. Pensé que era fácil encontrar y comprar productos
+4. Creo que necesitaría ayuda técnica para usar esta app
+5. Las funciones están bien integradas
+6. Había demasiada inconsistencia en el diseño
+7. La mayoría de personas aprenderían rápido a usarla
+8. Encontré la app confusa de navegar
+9. Me sentí confiado usando la aplicación
+10. Necesito aprender mucho antes de dominarla
+```
+
+### **Prueba 7: FEEDBACK CUALITATIVO**
+**Tipo**: Preguntas abiertas específicas
+**Duración**: 2 minutos
+```
+Preguntas específicas para ecommerce ecológico:
+
+1. "¿Qué te gustó más de la aplicación?" (Texto libre)
+
+2. "¿Qué cambiarías o mejorarías?" (Texto libre)
+
+3. "Comparando con otras apps de compra online, ¿cómo calificarías esta?" 
+   □ Mucho mejor □ Mejor □ Similar □ Peor □ Mucho peor
+
+4. "¿Recomendarías esta app a alguien interesado en productos ecológicos?"
+   □ Definitivamente sí □ Probablemente sí □ No estoy seguro 
+   □ Probablemente no □ Definitivamente no
+
+5. "¿Cuál sería el principal motivo para usar o no usar esta app?" (Texto libre)
+```
+
+---
+
+## 📊 **MÉTRICAS Y KPIs A MEDIR**
+
+### **Métricas Cuantitativas**
+- **SUS Score**: Puntuación estándar de usabilidad
+- **Task Success Rate**: % de tareas completadas exitosamente
+- **Time on Task**: Tiempo promedio por tarea específica
+- **Click Efficiency**: Clics necesarios vs. ruta óptima
+- **Drop-off Rate**: % usuarios que abandonan en cada paso
+
+### **Métricas Cualitativas**
+- **Satisfaction Score**: Nivel de satisfacción subjetiva (1-5)
+- **Trust Score**: Confianza en comprar productos (1-5)
+- **Information Clarity**: Claridad de info ecológica (1-5)
+- **Recommendation Likelihood**: Probabilidad de recomendación (NPS)
+
+### **Métricas Específicas Ecommerce Ecológico**
+- **Eco-Information Recognition**: ¿Identifica certificaciones?
+- **Local Origin Awareness**: ¿Reconoce productos locales?
+- **Trust in Purchase**: ¿Confiaría en comprar alimentos online?
+- **Price Perception**: ¿Los precios parecen justos para productos eco?
+
+---
+
+## ⚖️ **ASIGNACIÓN GRUPOS A/B**
+
+### **Grupo A (n=4) - GreenBasket Original**
+- **U01 Carmen**: Evaluará información nutricional/certificaciones
+- **U03 Ana**: Testará usabilidad familiar y proceso de compra
+- **U05 Elena**: Validará confianza y eficiencia para profesionales ocupados
+- **U07 Marta**: Probará funcionalidades premium y conveniencia
+
+### **Grupo B (n=4) - Diseño Alternativo/Competidor**
+- **U02 David**: Análisis técnico de UX y performance
+- **U04 Pablo**: Evaluación crítica de diseño y coherencia visual
+- **U06 Álex**: Perspectiva de transparencia y valores sostenibles
+- **U08 Roberto**: Necesidades profesionales y funcionalidades B2B
+
+---
+
+## 🎯 **CRITERIOS DE ÉXITO**
+
+### **Umbrales de Aceptación**
+- **SUS Score mínimo**: 70 puntos (usabilidad aceptable)
+- **SUS Score objetivo**: 80+ puntos (usabilidad excelente)
+- **Task Success Rate**: >85% para tareas críticas
+- **Diferencia significativa A vs B**: >10 puntos SUS
+
+### **Indicadores de Calidad Específicos**
+- **Eco-Information Clarity**: >4.0/5.0
+- **Purchase Confidence**: >3.5/5.0
+- **Recommendation Score**: >4.0/5.0
+- **Overall Satisfaction**: >4.0/5.0
+
+**🚀 OBJETIVO**: Validar que GreenBasket proporciona una experiencia superior y genera mayor confianza para la compra de productos ecológicos online, identificando oportunidades de optimización específicas del sector.
 - Realización del Cuestionario SUS para usuarios y casos A y B.
 - Tabla A/B Testing con resultados para A y B
 - Eye Tracking para B
