@@ -606,7 +606,7 @@ Preguntas específicas para ecommerce ecológico:
 [Enlace al proyecto EcoSierra en GitHub](#)
 
 ### Realizado por:
-**Equipo GreenBasket Evaluation Team** - Especialistas en UX/UI con 3 años de experiencia en evaluación de interfaces de ecommerce, particularmente enfocados en plataformas de productos sostenibles y ecológicos.
+**Equipo GreenBasket Evaluation Team** - Especialistas en UX/UI con 2 años de experiencia en evaluación de interfaces.
 
 ## 1 DESCRIPCIÓN DEL WEBSITE
 
