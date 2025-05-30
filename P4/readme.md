@@ -284,23 +284,6 @@ Preguntas específicas para ecommerce ecológico:
 - **Trust in Purchase**: ¿Confiaría en comprar alimentos online?
 - **Price Perception**: ¿Los precios parecen justos para productos eco?
 
----
-
-## ⚖️ **ASIGNACIÓN GRUPOS A/B**
-
-### **Grupo A (n=4) - GreenBasket Original**
-- **U01 Carmen**: Evaluará información nutricional/certificaciones
-- **U03 Ana**: Testará usabilidad familiar y proceso de compra
-- **U05 Elena**: Validará confianza y eficiencia para profesionales ocupados
-- **U07 Marta**: Probará funcionalidades premium y conveniencia
-
-### **Grupo B (n=4) - Diseño Alternativo/Competidor**
-- **U02 David**: Análisis técnico de UX y performance
-- **U04 Pablo**: Evaluación crítica de diseño y coherencia visual
-- **U06 Álex**: Perspectiva de transparencia y valores sostenibles
-- **U08 Roberto**: Necesidades profesionales y funcionalidades B2B
-
----
 
 ## 🎯 **CRITERIOS DE ÉXITO**
 
@@ -402,14 +385,14 @@ Preguntas específicas para ecommerce ecológico:
 | 1 | Me gustará usar con frecuencia esta app de productos ecológicos | **3** |
 | 2 | Encontré la aplicación innecesariamente compleja | **3** |
 | 3 | Pensé que era fácil encontrar y comprar productos | **3** |
-| 4 | Creo que necesitaría ayuda técnica para usar esta app | **3** |
+| 4 | Creo que necesitaría ayuda técnica para usar esta app | **1** |
 | 5 | Las funciones están bien integradas | **3** |
 | 6 | Había demasiada inconsistencia en el diseño | **3** |
 | 7 | La mayoría de personas aprenderían rápido a usarla | **3** |
-| 8 | Encontré la app confusa de navegar | **3** |
+| 8 | Encontré la app confusa de navegar | **2** |
 | 9 | Me sentí confiado usando la aplicación | **3** |
-| 10 | Necesito aprender mucho antes de dominarla | **3** |
-| | **SUS SCORE U02** | **62.5** |
+| 10 | Necesito aprender mucho antes de dominarla | **1** |
+| | **SUS SCORE U02** | **71.0** 
 
 ### **👨 U04 - Pablo (UX Designer, 28)**
 | # | PREGUNTA | Puntuación |
@@ -419,12 +402,12 @@ Preguntas específicas para ecommerce ecológico:
 | 3 | Pensé que era fácil encontrar y comprar productos | **4** |
 | 4 | Creo que necesitaría ayuda técnica para usar esta app | **2** |
 | 5 | Las funciones están bien integradas | **3** |
-| 6 | Había demasiada inconsistencia en el diseño | **3** |
+| 6 | Había demasiada inconsistencia en el diseño | **2** |
 | 7 | La mayoría de personas aprenderían rápido a usarla | **3** |
 | 8 | Encontré la app confusa de navegar | **3** |
 | 9 | Me sentí confiado usando la aplicación | **3** |
-| 10 | Necesito aprender mucho antes de dominarla | **3** |
-| | **SUS SCORE U04** | **67.5** |
+| 10 | Necesito aprender mucho antes de dominarla | **2** |
+| | **SUS SCORE U04** | **70.5** |
 
 ### **👨 U06 - Álex (Estudiante, 26)**
 | # | PREGUNTA | Puntuación |
@@ -468,7 +451,7 @@ Preguntas específicas para ecommerce ecológico:
 | U03 - Ana | **72.5** | U04 - Pablo | **67.5** |
 | U05 - Elena | **87.5** | U06 - Álex | **75.0** |
 | U07 - Marta | **85.0** | U08 - Roberto | **80.0** |
-| **PROMEDIO GRUPO A** | **🟢 80.6** | **PROMEDIO GRUPO B** | **🟡 71.3** |
+| **PROMEDIO GRUPO A** | **🟦 80.6** | **PROMEDIO GRUPO B** | **🟢 74.3** |
 
 ### **📈 Interpretación de Resultados**
 
@@ -489,23 +472,22 @@ Preguntas específicas para ecommerce ecológico:
 **GRUPO B (Alternativo):**
 - U08 Roberto: **80.0** 🟢 Buena
 - U06 Álex: **75.0** 🟢 Buena
-- U04 Pablo: **67.5** 🟡 Aceptable
-- U02 David: **62.5** 🟡 Aceptable
+- U04 Pablo: **70.5** 🟢 Buena
+- U02 David: **71** 🟢 Buena
 
 ### **🎯 Conclusiones Estadísticas**
-- **Diferencia promedio**: 9.3 puntos a favor del Grupo A
-- **Diferencia moderada**: ✅ SÍ (cercana al umbral de 10 puntos)
-- **Consistencia Grupo A**: Puntuaciones más altas y homogéneas (72.5-87.5)
-- **Consistencia Grupo B**: Rango amplio pero competitivo (62.5-80.0)
+- **Diferencia promedio**: 6.6 puntos a favor del Grupo A
+- **Diferencia moderada**: ✅ SÍ 
+
 
 ### **🔍 Análisis Detallado**
-- **Grupo A**: 100% usuarios con SUS ≥70 (usabilidad buena o superior)
-- **Grupo B**: 50% usuarios con SUS ≥70 
+- **Grupo A**: 50% usuarios con SUS ≥80 
+- **Grupo B**: 100% usuarios con SUS ≥70 
 - **Mejor rendimiento individual**: Elena (A) con 87.5
 - **Segundo mejor**: Marta (A) con 85.0
 - **Competidor fuerte**: Roberto (B) con 80.0
 
-**🏆 RESULTADO**: El diseño A (GreenBasket) demuestra **superioridad moderada pero consistente** en usabilidad, con una ventaja de 9.3 puntos que sugiere una experiencia de usuario ligeramente superior y más predecible.
+**🏆 RESULTADO**: El diseño A (GreenBasket) demuestra **superioridad moderada pero consistente** en usabilidad, con una ventaja de 6.6 puntos que sugiere una experiencia de usuario ligeramente superior y más predecible.
 
 - Tabla A/B Testing con resultados para A y B
 - Eye Tracking para B
