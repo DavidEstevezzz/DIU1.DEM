@@ -20,13 +20,13 @@ Elementos incluidos:
 ✅ Elemento gráfico: Placeholder para video de productores
 ✅ Logo integrado con el estilo visual definido
 
-2. Características y Beneficios (3)
+2. Características y Beneficios 
 
 ✅ 100% Ecológico: Productos certificados sin químicos
 ✅ Directo del Productor: Sin intermediarios, precios justos
 ✅ Entrega en 24h: Productos frescos recién cosechados
 
-3. Refuerzo Emocional
+4. Refuerzo Emocional
 
 ✅ Estadísticas sociales: 500+ productores, 10k+ familias, 95% satisfacción
 ✅ Testimonio real de cliente satisfecho
