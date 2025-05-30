@@ -599,11 +599,9 @@ Preguntas específicas para ecommerce ecológico:
 
 #### Evaluación de usabilidad del proyecto 
 ### EcoSierra - Alimentos y cosméticos ecológicos
-### 31 de Mayo, 2024
+### 29 de Mayo, 2025
 
-![EcoSierra Project](https://via.placeholder.com/600x300/7CB342/FFFFFF?text=EcoSierra+-+Productos+Ecol%C3%B3gicos)
-
-[Enlace al proyecto EcoSierra en GitHub](#)
+[Enlace al proyecto EcoSierra en GitHub]((https://github.com/javiosl/UX_CaseStudy/tree/master/P3))
 
 ### Realizado por:
 **Equipo GreenBasket Evaluation Team** - Especialistas en UX/UI con 2 años de experiencia en evaluación de interfaces.
@@ -660,8 +658,6 @@ Este informe evalúa la usabilidad de la aplicación EcoSierra mediante testing 
 
 ### Incidencias
 - **Navegación inicial**: Usuario David experimentó dificultades localizando categorías principales desde homepage
-- **Formularios extensos**: Proceso de checkout percibido como largo por algunos usuarios
-- **Información distribuida**: Algunos usuarios requirieron scroll adicional para encontrar datos de certificación ecológica
 
 ### Valoración
 
