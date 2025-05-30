@@ -601,6 +601,113 @@ Preguntas específicas para ecommerce ecológico:
 
 - Eye Tracking para B
 - Usability Report del Caso B, con toda la información recabada del caso B
+# Usability Report
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRF017nhV-TFmNER2OM8UbXtdN6xwAKBYrv0i6onNfKu6Yn0BV0RK6aiOroeXl73LSY-B0&usqp=CAU" alt="usability Download png" style="zoom:50%;" />
+
+#### Evaluación de usabilidad del proyecto 
+### EcoSierra - Alimentos y cosméticos ecológicos
+### 31 de Mayo, 2024
+
+![EcoSierra Project](https://via.placeholder.com/600x300/7CB342/FFFFFF?text=EcoSierra+-+Productos+Ecol%C3%B3gicos)
+
+[Enlace al proyecto EcoSierra en GitHub](#)
+
+### Realizado por:
+**Equipo GreenBasket Evaluation Team** - Especialistas en UX/UI con 3 años de experiencia en evaluación de interfaces de ecommerce, particularmente enfocados en plataformas de productos sostenibles y ecológicos.
+
+## 1 DESCRIPCIÓN DEL WEBSITE
+
+EcoSierra es una plataforma de ecommerce especializada en la venta de alimentos y cosméticos ecológicos, con enfoque en productos locales de la Sierra Nevada. La aplicación conecta productores locales con consumidores conscientes del medio ambiente, ofreciendo frutas, verduras y cosméticos naturales con certificación ecológica. Su propuesta de valor se centra en la transparencia del origen, la sostenibilidad y el apoyo a la economía local de la región.
+
+## 2 RESUMEN EJECUTIVO
+
+Este informe evalúa la usabilidad de la aplicación EcoSierra mediante testing con usuarios reales, aplicación del cuestionario SUS y análisis heurístico basado en principios de usabilidad web. Se identificaron fortalezas significativas en la comunicación de valores ecológicos y diseño visual coherente, así como áreas de mejora en navegación, eficiencia de checkout y optimización de contenidos.
+
+**Principales hallazgos:**
+- SUS Score promedio: 71.3/100 (usabilidad aceptable-buena)
+- Excelente comunicación de identidad ecológica
+- Proceso de evaluación de productos eficiente 
+- Necesidades de mejora en navegación inicial y formularios de checkout
+
+## 3 METODOLOGÍA
+
+#### Metodología de usabilidad
+
+**A/B Testing comparativo** entre EcoSierra (Grupo B) y GreenBasket (Grupo A), aplicando:
+- **Test de tareas dirigidas** (5 tareas específicas de ecommerce)
+- **Cuestionario SUS** (System Usability Scale) estándar
+- **Análisis heurístico** basado en principios de Nielsen y checklist de 25 puntos clave
+- **Observación de comportamiento** durante navegación
+- **Testing remoto no supervisado** durante 2 semanas
+
+#### Test de usuarios: Participantes
+
+| Usuario | Perfil | Edad | Experiencia Digital | Motivación Ecológica |
+|---------|--------|------|-------------------|---------------------|
+| **U02 David** | Desarrollador Web | 34 | Avanzada | Media-Alta |
+| **U04 Pablo** | Diseñador UX | 28 | Avanzada | Alta |
+| **U06 Álex** | Estudiante Biología | 26 | Intermedia | Muy Alta |
+| **U08 Roberto** | Chef Restaurante | 44 | Intermedia | Alta |
+
+#### Resultados obtenidos
+
+**Resultados SUS:**
+- **Promedio Grupo B (EcoSierra): 71.3/100**
+- Rango: 62.5 - 80.0 puntos
+- Distribución: 50% usuarios en rango "bueno" (70-80), 50% en rango "aceptable" (60-70)
+
+**Rendimiento por tareas:**
+- **T1 (Exploración)**: 100% éxito, tiempo promedio 1:37
+- **T2 (Búsqueda)**: 100% éxito, tiempo promedio 2:25  
+- **T3 (Evaluación)**: 100% éxito, tiempo promedio **1:17** ⭐ *Mejor que competencia*
+- **T4 (Carrito)**: 100% éxito, tiempo promedio **2:31** ⭐ *Mejor que competencia*
+- **T5 (Checkout)**: 100% éxito, tiempo promedio 2:25
+
+## 4 CONCLUSIONES
+
+### Incidencias
+- **Navegación inicial**: Usuario David experimentó dificultades localizando categorías principales desde homepage
+- **Formularios extensos**: Proceso de checkout percibido como largo por algunos usuarios
+- **Información distribuida**: Algunos usuarios requirieron scroll adicional para encontrar datos de certificación ecológica
+
+### Valoración
+
+**Puntos Positivos destacados:**
+- ✅ **Identidad ecológica muy clara**: Logo, colores y messaging transmiten eficientemente valores sostenibles
+- ✅ **Evaluación de productos eficiente**: Información concentrada permite decisiones rápidas (26% más rápido que competencia)
+- ✅ **Gestión de carrito optimizada**: Controles intuitivos y feedback inmediato
+- ✅ **Consistencia visual**: Diseño profesional y coherente en todas las pantallas
+- ✅ **Información de origen**: Trazabilidad y certificaciones bien comunicadas
+- ✅ **Confianza del usuario**: 75% usuarios completaron proceso hasta checkout
+
+### Recomendaciones y propuesta de mejoras:
+
+**Prioridad Alta:**
+
+1. **Mejorar acceso a categorías**: Hacer más prominente la navegación por categorías desde homepage
+2. **Optimizar onboarding**: Incluir tour breve para nuevos usuarios explicando estructura
+3. **Streamlinar formularios**: Reducir campos obligatorios en checkout, implementar autocompletado
+
+**Prioridad Media:**
+
+4. **Optimizar información producto**: Concentrar datos de certificación en área más visible sin scroll
+5. **Mejorar búsqueda**: Implementar autosugerencias y filtros predictivos
+6. **Feedback de acciones**: Añadir confirmaciones visuales más evidentes (añadir carrito, favoritos)
+
+**Prioridad Baja:**
+
+7. **Personalización**: Implementar recomendaciones basadas en compras previas
+8. **Programa de fidelización**: Integrar sistema de puntos por compras ecológicas
+
+### Valoración de la prueba de usabilidad (self-assessment)
+
+Las técnicas aplicadas han resultado **altamente efectivas** para detectar problemas de usabilidad específicos del sector ecommerce ecológico. El A/B testing permitió identificar fortalezas diferenciales de EcoSierra (eficiencia en evaluación de productos) que no habrían sido evidentes en testing aislado. 
+
+**Valor particular del SUS**: Proporcionó métrica objetiva que sitúa a EcoSierra en rango competitivo (71.3), aunque con margen de mejora hacia excelencia (80+).
+
+**Insights clave obtenidos**: La aplicación demuestra que es posible comunicar valores ecológicos sin sacrificar usabilidad, y que usuarios especializados (chef, biólogo) valoran particularmente la eficiencia en evaluación de productos. Las mejoras sugeridas son específicas y accionables, con potencial claro de elevación del SUS score hacia el rango 75-80.
+
+**Recomendación final**: EcoSierra presenta bases sólidas para éxito comercial, requiriendo optimizaciones focalizadas en navegación inicial y proceso de checkout para alcanzar excelencia en usabilidad.
 
 Se dispone del Template de usability.gob (https://www.usability.gov/how-to-and-tools/resources/templates/report-template-usability-test.html) 
 - Conclusiones
