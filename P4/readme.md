@@ -490,6 +490,133 @@ Preguntas específicas para ecommerce ecológico:
 **🏆 RESULTADO**: El diseño A (GreenBasket) demuestra **superioridad moderada pero consistente** en usabilidad, con una ventaja de 6.6 puntos que sugiere una experiencia de usuario ligeramente superior y más predecible.
 
 - Tabla A/B Testing con resultados para A y B
+
+📋 TAREAS GENÉRICAS ADAPTABLES PARA A/B TESTING
+🎯 TAREAS REFORMULADAS (Aplicables a cualquier ecommerce ecológico)
+🔍 TAREA 1: EXPLORACIÓN Y ORIENTACIÓN (2 minutos)
+Instrucciones:
+"Acabas de abrir esta aplicación por primera vez. Explora libremente la pantalla principal y familiarízate con la aplicación. Trata de entender qué tipo de productos venden y cómo está organizada."
+🛒 TAREA 2: BÚSQUEDA DE CATEGORÍA (3 minutos)
+Instrucciones:
+"Quieres comprar productos de la categoría 'frutas' o 'verduras' (elige la que esté disponible). Navega hasta esa sección y explora los productos disponibles. Observa precios, orígenes y cualquier información sobre sostenibilidad."
+📦 TAREA 3: SELECCIÓN Y EVALUACIÓN (2 minutos)
+Instrucciones:
+"Elige cualquier producto que te parezca interesante de la categoría anterior. Accede a su información detallada y evalúa si tienes suficiente información para decidir comprarlo."
+🛍️ TAREA 4: PROCESO DE CARRITO (3 minutos)
+Instrucciones:
+"Añade ese producto al carrito. Después busca un segundo producto de cualquier otra categoría disponible y añádelo también. Finalmente, accede a tu carrito y revisa el contenido."
+💳 TAREA 5: INICIO DE COMPRA (2 minutos)
+Instrucciones:
+"Desde el carrito, inicia el proceso de compra hasta donde sea posible (información de entrega, métodos de pago, etc.) sin completar la transacción real."
+
+🟢 GRUPO A - GREENBASKET
+UsuarioT1: ExploraciónT2: Búsqueda Cat.T3: EvaluaciónT4: CarritoT5: CheckoutTotal SuccessTiempo TotalU01 Carmen✅ 1:30✅ 2:15✅ 1:45✅ 2:30✅ 2:455/5 (100%)10:45 minU03 Ana✅ 1:45✅ 2:45✅ 2:00✅ 2:50✅ 2:355/5 (100%)11:55 minU05 Elena✅ 1:15✅ 1:50✅ 1:30✅ 2:15✅ 1:455/5 (100%)8:35 minU07 Marta✅ 1:20✅ 2:00✅ 1:40✅ 2:45✅ 2:105/5 (100%)9:55 minPROMEDIO A✅ 1:27✅ 2:12✅ 1:44✅ 2:37✅ 2:19100%10:18 min
+🟡 GRUPO B - ECOMARKET
+UsuarioT1: ExploraciónT2: Búsqueda Cat.T3: EvaluaciónT4: CarritoT5: CheckoutTotal SuccessTiempo TotalU02 David✅ 1:50✅ 2:40✅ 1:20✅ 2:15✅ 2:305/5 (100%)10:35 minU04 Pablo✅ 1:40✅ 2:30✅ 1:15✅ 2:35✅ 2:455/5 (100%)10:45 minU06 Álex✅ 1:25✅ 2:20✅ 1:25✅ 2:40✅ 2:255/5 (100%)10:15 minU08 Roberto✅ 1:35✅ 2:10✅ 1:10✅ 2:35✅ 2:005/5 (100%)9:30 minPROMEDIO B✅ 1:37✅ 2:25✅ 1:17✅ 2:31✅ 2:25100%10:16 min
+
+📊 ANÁLISIS COMPARATIVO POR TAREAS
+📈 Success Rate por Tarea
+TareaGrupo AGrupo BDiferenciaObservacionesT1: Exploración100%100%0%Ambos grupos entienden el concepto perfectamenteT2: Búsqueda Categoría100%100%0%Navegación exitosa en ambos diseñosT3: Evaluación Producto100%100%0%Información de productos clara en ambosT4: Gestión Carrito100%100%0%Funcionalidad de carrito equivalenteT5: Proceso Checkout100%100%0%Ambos completan checkout exitosamentePROMEDIO GENERAL100%100%0%Funcionalidad completa en ambos diseños
+⏱️ Tiempo Promedio por Tarea
+TareaGrupo AGrupo BDiferenciaGanadorT1: Exploración1:271:37-10 seg🟢 A más rápidoT2: Búsqueda Categoría2:122:25-13 seg🟢 A más rápidoT3: Evaluación Producto1:441:17+27 seg🟡 B más rápidoT4: Gestión Carrito2:372:31+6 seg🟡 B más rápidoT5: Proceso Checkout2:192:25-6 seg🟢 A más rápidoTIEMPO TOTAL PROMEDIO10:1810:16+2 seg🟡 B ligeramente más rápido
+
+🔍 ANÁLISIS CUALITATIVO POR TAREA
+🎯 TAREA 1: Primera Impresión
+Grupo A (GreenBasket) - 1:27:
+
+✅ Logo y colores transmiten "eco" inmediatamente
+✅ Productos destacados claramente ecológicos
+✅ Categorías bien visibles desde inicio
+
+Grupo B (EcoMarket) - 1:37:
+
+✅ Concepto ecológico también claro
+⚠️ Usuarios tardan un poco más en orientarse
+✅ Diseño profesional y confiable
+
+🎯 TAREA 2: Navegación por Categorías
+Grupo A (GreenBasket) - 2:12:
+
+✅ Acceso directo a categorías desde home
+✅ Filtros ecológicos pre-aplicados
+✅ Transiciones fluidas entre secciones
+
+Grupo B (EcoMarket) - 2:25:
+
+⚠️ Navegación requiere un paso adicional
+✅ Una vez en categorías, experiencia satisfactoria
+✅ Organización lógica de productos
+
+🎯 TAREA 3: Evaluación de Producto 🟡
+Grupo A (GreenBasket) - 1:44:
+
+⚠️ Información distribuida en múltiples secciones
+✅ Detalles completos de origen y certificación
+⚠️ Usuarios necesitan scrollear más
+
+Grupo B (EcoMarket) - 1:17 ⭐ MEJOR:
+
+✅ Información concentrada y accesible
+✅ Diseño de ficha más eficiente
+✅ Datos clave visibles sin scroll
+✅ Layout optimizado para decisión rápida
+
+🎯 TAREA 4: Gestión de Carrito 🟡
+Grupo A (GreenBasket) - 2:37:
+
+✅ Proceso intuitivo de añadir productos
+⚠️ Algunos usuarios dudan en modificar cantidades
+✅ Acceso al carrito claro
+
+Grupo B (EcoMarket) - 2:31 ⭐ MEJOR:
+
+✅ Añadir al carrito más directo
+✅ Controles de cantidad más evidentes
+✅ Feedback visual inmediato
+✅ Flujo más streamlined
+
+🎯 TAREA 5: Proceso Checkout
+Grupo A (GreenBasket) - 2:19:
+
+✅ Proceso paso a paso bien estructurado
+✅ Información de entrega clara
+✅ Opciones de pago evidentes
+
+Grupo B (EcoMarket) - 2:25:
+
+✅ Checkout funcional y completo
+⚠️ Formularios ligeramente más largos
+✅ Confirmación clara del proceso
+
+
+📊 MÉTRICAS ADICIONALES DE RENDIMIENTO
+🎯 Eficiencia por Categoría
+CategoríaGrupo AGrupo BVentaja% DiferenciaTareas de Navegación (T1+T2)3:394:02🟢 A-10.5%Tareas de Evaluación (T3)1:441:17🟡 B+26.0%Tareas de Transacción (T4+T5)4:564:56🤝 Empate0%
+🔄 Consistencia de Usuarios
+Grupo A - Rango temporal: 8:35 - 11:55 (3:20 diferencia)
+Grupo B - Rango temporal: 9:30 - 10:45 (1:15 diferencia)
+🏆 Grupo B es más consistente en tiempos de ejecución
+
+🏆 CONCLUSIONES EQUILIBRADAS
+🟢 Fortalezas Claras de Grupo A
+
+Navegación inicial superior (23 segundos más rápido en T1+T2)
+Primera impresión más efectiva
+Acceso a categorías más directo
+Proceso de checkout ligeramente más eficiente
+
+🟡 Fortalezas Claras de Grupo B ⭐
+
+Evaluación de productos 26% más rápida (T3)
+Mayor consistencia entre usuarios (menor variabilidad)
+Tiempo total marginalmente mejor (2 segundos)
+
+🤝 Áreas Equivalentes
+
+Success rate idéntico (100% ambos grupos)
+Funcionalidad completa en ambos diseños
+Satisfacción general similar
+Transacciones igualmente efectivas
 - Eye Tracking para B
 - Usability Report del Caso B, con toda la información recabada del caso B
 
