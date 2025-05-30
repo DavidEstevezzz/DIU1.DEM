@@ -92,6 +92,10 @@ Patrones decorativos sutiles
 Cards con sombras delicadas
 
 - Mockup: LAYOUT HI-FI
+
+ https://www.figma.com/design/Dh60S2Ix7ZZxrIHkvTwFFx/HIFI?m=auto&t=bOt0Ts2q01gJNkuV-6
+
+  
 - Publicación del Case Study
 
 ## Conclusiones
