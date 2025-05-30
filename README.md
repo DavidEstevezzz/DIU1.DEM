@@ -17,7 +17,7 @@ GreenBasket es una plataforma digital de suscripción de cestas de alimentos 100
 
 Logotipo: 
 
-![image](https://github.com/user-attachments/assets/061ba21e-56ed-456c-afdf-3e0e27e0078c)
+![image](https://github.com/user-attachments/assets/7791987c-9b21-4955-8bb0-d447be1071c3)
 
 Miembros:
  * :bust_in_silhouette:  AA     :octocat:     
