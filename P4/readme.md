@@ -518,8 +518,6 @@ Preguntas específicas para ecommerce ecológico:
 
 # 📊 **TABLA A/B TESTING - RESULTADOS POR TAREAS**
 
-# 📊 **TABLA A/B TESTING - RESULTADOS POR TAREAS (COMPLETOS)**
-
 ## 📈 **DESGLOSE DETALLADO POR TAREA Y USUARIO**
 
 ### **🟢 GRUPO A - GREENBASKET**
