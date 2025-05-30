@@ -95,6 +95,11 @@ Cards con sombras delicadas
 
  https://www.figma.com/design/Dh60S2Ix7ZZxrIHkvTwFFx/HIFI?m=auto&t=bOt0Ts2q01gJNkuV-6
 
+ Animación: https://www.figma.com/proto/Dh60S2Ix7ZZxrIHkvTwFFx/HIFI?node-id=11-1336&t=bOt0Ts2q01gJNkuV-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=11%3A1336&show-proto-sidebar=1
+
+ ![image](https://github.com/user-attachments/assets/f9b3926b-abb9-4517-992b-808d138b8346)
+
+
   
 - Publicación del Case Study
 
