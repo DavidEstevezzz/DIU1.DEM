@@ -3,21 +3,21 @@ Prácticas Diseño Interfaces de Usuario (Tema: .... )
 
 [Guiones de prácticas](GuionesPracticas/)
 
-Grupo: DIUx_AABB.  Curso: 2024/25 
+Grupo: DIU1_DEM.  Curso: 2024/25 
 
-Actualizado: xx/xx/2025
+Actualizado: 30/05/2025
 
 Proyecto: 
 
->>> Decida el nombre corto de su propuesta en la práctica 2 
+GreenBasket
 
 Descripción: 
 
->>> Describa la idea de su producto en la práctica 2 
+GreenBasket es una plataforma digital de suscripción de cestas de alimentos 100 % ecológicos y de proximidad que conecta directamente a pequeños productores locales con consumidores que buscan calidad, frescura y transparencia. Ofrecemos cestas personalizables de temporada, entregas programadas y un sistema de recompensas que promueve prácticas sostenibles (huella de CO₂ reducida, envases reutilizables) y fortalece la economía rural, todo en una experiencia de compra sencilla y plenamente transparente.
 
 Logotipo: 
 
->>> Si diseña un logotipo para su producto en la práctica 3 pongalo aqui, a un tamaño adecuado. Si diseña un slogan añadalo aquí
+![image](https://github.com/user-attachments/assets/061ba21e-56ed-456c-afdf-3e0e27e0078c)
 
 Miembros:
  * :bust_in_silhouette:  AA     :octocat:     
@@ -44,7 +44,11 @@ Miembros:
 ![Método UX](img/Competitive.png) 
 -----
 
->>> Describe el plan en tu User Research (cómo se plantea la selección de usuarios). Borra esta línea cuando lo tengas.  
+Granada, con su aspiración a ser capital cultural en 2031, presenta una oportunidad única para estudiar la usabilidad de plataformas digitales de mercados ecológicos como Valle y Vega. Nuestro enfoque de investigación se centrará en evaluar sistemáticamente la experiencia de usuario mediante una combinación de técnicas cualitativas y cuantitativas.
+
+Iniciaremos con un análisis competitivo de sitios similares para establecer benchmarks de usabilidad. Posteriormente, desarrollaremos personas ficticias representativas de los usuarios potenciales: consumidores locales comprometidos con la sostenibilidad y visitantes interesados en experiencias gastronómicas auténticas.
+
+Aplicaremos cognitive walkthroughs para evaluar las tareas críticas (búsqueda de productos, proceso de compra, obtención de información sobre productores) y realizaremos una revisión heurística exhaustiva basada en principios establecidos de usabilidad. Esta estrategia nos permitirá identificar obstáculos en la interacción usuario-sistema, evaluar la eficacia de la arquitectura de información y determinar cómo estas plataformas facilitan la conexión entre consumidores y productores locales. El objetivo final es proporcionar recomendaciones concretas para mejorar la usabilidad, aumentar la conversión y fortalecer el papel de estas plataformas como promotoras del comercio sostenible en Granada.
 
 
 ### 1.b Competitive Analysis
@@ -58,7 +62,61 @@ Miembros:
 ![Método UX](img/Persona.png) 
 -----
 
->>> Junto con la captura de pantalla de la ficha de la persona, haz una breve descripción de la misma. Recuerda que son dos. Los recursos de imagen deberán estar dentro de la carpeta P1/ Cuando termines, borra esta línea.  
+Laura Martínez, 34 años Residente del Albaicín, Granada
+
+"Cada compra que hacemos es un voto por el tipo de mundo que queremos."
+
+Información Básica
+
+• Ocupación: Profesora de secundaria (Biología)
+
+• Educación: Licenciada en Ciencias Ambientales
+
+• Estado familiar: Casada, con un hijo de 6 años
+
+• Personalidad: Organizada, consciente, activista comunitaria
+
+Experiencia Tecnológica
+
+• Nivel: Medio - Utiliza tecnología cotidianamente para trabajo y vida personal
+
+• Dispositivos: Smartphone, laptop, tablet familiar
+
+• Aplicaciones más usadas: WhatsApp, Instagram, apps educativas, email
+
+Motivaciones
+
+• Alimentación saludable para su familia
+
+• Reducir su huella ecológica
+
+• Apoyar a productores locales
+
+• Conocer el origen de los alimentos que consume
+
+Frustraciones
+
+• Falta de tiempo para hacer compras presenciales en mercados
+
+• Dificultad para encontrar productos ecológicos a precios accesibles
+
+• Desconfianza sobre el verdadero origen de productos etiquetados como "eco"
+
+• Limitada variedad de productos en tiendas convencionales
+
+Objetivos
+
+Mantener una dieta basada en productos de temporada y locales, enseñar hábitos sostenibles a su hijo.
+
+Comportamiento de Compra
+
+Planifica compras semanales, busca información detallada sobre los productores antes de realizar un pedido, y prefiere sistemas que le permitan organizar su tiempo eficientemente.
+
+Relación con Valle y Vega
+
+Laura descubrió Valle y Vega a través de un compañero de trabajo hace ocho meses y desde entonces realiza pedidos quincenales. Valora especialmente la transparencia sobre el origen de los productos y la posibilidad de hacer pedidos online para recoger en un punto cercano a su casa. Sin embargo, a veces encuentra la plataforma algo limitada en términos de opciones de pago y le gustaría más información visual sobre los productos.
+
+
 
 
 ### 1.d User Journey Map
