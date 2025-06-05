@@ -480,8 +480,6 @@ Preguntas específicas para ecommerce ecológico:
 - Tabla A/B Testing con resultados para A y B
 # 📋 **TAREAS GENÉRICAS ADAPTABLES PARA A/B TESTING**
 
-## 🎯 **TAREAS REFORMULADAS (Aplicables a cualquier ecommerce ecológico)**
-
 ### **🔍 TAREA 1: EXPLORACIÓN Y ORIENTACIÓN** *(2 minutos)*
 **Instrucciones**:
 *"Acabas de abrir esta aplicación por primera vez. Explora libremente la pantalla principal y familiarízate con la aplicación. Trata de entender qué tipo de productos venden y cómo está organizada."*
