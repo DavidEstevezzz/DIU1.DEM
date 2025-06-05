@@ -11,7 +11,6 @@
 
   
 [Empathy Map (Copy).pdf](https://github.com/user-attachments/files/19999653/Empathy.Map.Copy.pdf)
-![image](https://github.com/user-attachments/assets/45ebd964-5fab-4126-ad7f-4d94f3f3f1ee)
 
 
   
