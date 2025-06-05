@@ -64,10 +64,10 @@ Elementos incluidos:
 ✅ Elementos adaptados a pantalla móvil
 
 
-🎨 Características del diseño:
+# 🎨 Características del diseño:
 
 
-Coherencia visual:
+# Coherencia visual:
 
 Usa la paleta de colores del moodboard
 
@@ -76,7 +76,7 @@ Tipografía Poppins consistente
 Iconos minimalistas integrados
 
 
-Jerarquía clara:
+# Jerarquía clara:
 
 Flujo visual descendente
 
@@ -85,7 +85,7 @@ CTAs destacados en naranja
 Espaciado generoso
 
 
-Elementos emocionales:
+# Elementos emocionales:
 
 Gradientes suaves
 
