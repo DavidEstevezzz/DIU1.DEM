@@ -1,15 +1,15 @@
 # DIU - Practica 3, entregables
 
-- Moodboard (diseño visual + logotipo)
+# Moodboard (diseño visual + logotipo)
 
 [https://www.figma.com/design/ysAWW2HEj9rImYPwZxmaI0/Untitled?node-id=1-2&m=dev&t=00uPJPW08zR6mF9h-1
 ](https://www.figma.com/design/ysAWW2HEj9rImYPwZxmaI0/Untitled?node-id=0-1&p=f&t=ObE0VQ6d7iA70xZj-0)
 - Landing Page
 
-LANDING PAGE PC:
+# LANDING PAGE PC:
 https://www.figma.com/design/ze21BtVPyyNczp4nVzqHLG/Untitled?m=auto&t=1nBJkaoYqVj7Hxnq-6
 
-LANDING PAGE MOBILE:
+# LANDING PAGE MOBILE:
 https://www.figma.com/design/NUfo6SFzGHrNiVOpE13R9j/Untitled?m=auto&t=1nBJkaoYqVj7Hxnq-6
 
 Elementos incluidos:
