@@ -88,8 +88,11 @@ Espaciado generoso
 Elementos emocionales:
 
 Gradientes suaves
+
 Patrones decorativos sutiles
+
 Cards con sombras delicadas
+
 
 - Mockup: LAYOUT HI-FI
 
